@@ -1,0 +1,345 @@
+{
+  "metadata": {
+    "title": "Immigration and Visa Sponsorship for Companies",
+    "description": "Jackson & Frank handles work permits and visa sponsorship for companies hiring in EMEA. As the legal employer and recognised sponsor in 17+ markets, we manage the full process, no third parties.",
+    "keywords": [
+      "visa sponsorship for companies",
+      "work permit sponsorship",
+      "recognised sponsor",
+      "immigration for employers",
+      "EU Blue Card",
+      "skilled worker permit",
+      "intra-company transfer",
+      "highly skilled migrant",
+      "kennismigrant",
+      "dependent family visa",
+      "work permit renewal",
+      "EMEA immigration",
+      "employer of record immigration",
+      "corporate immigration EMEA"
+    ],
+    "openGraph": {
+      "title": "Immigration and Visa Sponsorship for Companies | Jackson & Frank",
+      "description": "Work permits and visa sponsorship for companies hiring in EMEA. As the legal employer and recognised sponsor in 17+ markets, Jackson & Frank manages the full process, no third parties.",
+      "url": "/immigration",
+      "siteName": "Jackson & Frank",
+      "images": [
+        {
+          "url": "/services/service-page/immigration.webp",
+          "width": 1200,
+          "height": 630,
+          "alt": "Immigration and visa sponsorship for companies - Jackson & Frank"
+        }
+      ],
+      "locale": "en_US",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Immigration and Visa Sponsorship for Companies | Jackson & Frank",
+      "description": "Work permits and visa sponsorship for companies hiring in EMEA. As the legal employer and recognised sponsor in 17+ markets, we manage the full process, no third parties.",
+      "images": [
+        "/services/service-page/immigration.webp"
+      ]
+    },
+    "alternates": {
+      "canonical": "/immigration"
+    }
+  },
+  "hero": {
+    "tag": "Employer of Record & Immigration",
+    "titleLead": "Visa sponsorship and immigration, handled by ",
+    "titleAccent": "your legal employer",
+    "lede": "When Jackson & Frank is your Employer of Record, we're also your recognised visa sponsor, in every market we operate in. No third-party handoffs. One entity employs your hire and files the paperwork.",
+    "disqualifier": "This page is for companies hiring internationally. If you're looking for a visa-sponsored role, please contact employers directly.",
+    "ctaText": "Discuss your hiring need",
+    "ctaReason": "immigration_services",
+    "trustStrip": [
+      "1,400+ employees placed",
+      "From 4 weeks processing",
+      "17+ owned-entity markets",
+      "24/5 human support"
+    ],
+    "whyThisMatters": {
+      "eyebrow": "Why this matters",
+      "title": "We are the employer, the sponsor, and the accountable party, in the same legal entity.",
+      "description": "Most EOR providers route visa applications through a local partner. Jackson & Frank holds recognised sponsor status directly in all 17+ markets we operate in, which means when something needs to happen, one entity is responsible for it."
+    }
+  },
+  "differentiator": {
+    "tag": "Why Jackson & Frank",
+    "titleLead": "We're the recognised sponsor, ",
+    "titleAccent": "not a partner of one",
+    "paragraphs": [
+      "Most EOR providers operate through partner networks. When they say they cover 100+ countries, they mean they know someone in those countries who is the actual legal employer and recognised sponsor. When something goes wrong, it's that partner's problem, not theirs.",
+      "Jackson & Frank holds recognised sponsor status directly in every market we operate in. We are the legal employer. We are the recognised sponsor. When we file your hire's work permit, we're filing it under our own licence, not routing it through a third party.",
+      "That matters for two reasons: your hire's permit is in stronger hands, and your liability exposure sits with a single accountable provider."
+    ],
+    "quote": "We are the employer, the sponsor, and the accountable party, in the same legal entity.",
+    "comparison": {
+      "competitor": {
+        "label": "Typical EOR + immigration (competitor model)",
+        "description": "EOR provider employs your hire in market A. For visa sponsorship, they route the application through a local immigration partner. Two contracts. Two liable parties. If there's a delay or a compliance gap, the question is whose problem it is."
+      },
+      "jf": {
+        "label": "Jackson & Frank model",
+        "description": "Jackson & Frank employs your hire AND holds recognised sponsor status in that market. The same legal entity files the permit, runs payroll, and manages the employment relationship. One contract. One accountable party. No handoff."
+      }
+    }
+  },
+  "process": {
+    "tag": "How it works",
+    "title": "From offer accepted to visa approved",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Assess",
+        "description": "We review your hire's nationality, role, and target market to identify the right permit category and flag any complexity early."
+      },
+      {
+        "number": 2,
+        "title": "Prepare",
+        "description": "We compile the required documentation and handle all correspondence with local immigration authorities: IND, BAMF, DIRECCTE, or the relevant body in your market."
+      },
+      {
+        "number": 3,
+        "title": "Submit",
+        "description": "As the recognised sponsor, we submit the application under our own licence. Your hire doesn't need to engage government bodies independently."
+      },
+      {
+        "number": 4,
+        "title": "Track",
+        "description": "We keep you updated throughout. No chasing required. You'll hear from us before you need to ask."
+      },
+      {
+        "number": 5,
+        "title": "Onboard",
+        "description": "Once approved, employment and payroll start through the same entity. Nothing needs to be handed off to another provider."
+      }
+    ],
+    "note": {
+      "label": "On processing time:",
+      "text": "Permit processing depends on the country's immigration authority. In the Netherlands, Highly Skilled Migrant permits typically take 2-4 weeks. Most other markets run from 4 weeks, depending on complexity. We'll give you a market-specific estimate during scoping."
+    }
+  },
+  "permits": {
+    "tag": "What we handle",
+    "title": "Permit types we manage",
+    "columns": [
+      "Permit type",
+      "Markets"
+    ],
+    "rows": [
+      {
+        "type": "EU Blue Card",
+        "example": "",
+        "markets": "Belgium, Czech Republic, France, Germany, Hungary, Italy, Netherlands, Poland, Portugal, Romania, Spain, Sweden"
+      },
+      {
+        "type": "Skilled Worker Permit",
+        "example": "Country-specific equivalents, e.g. Highly Skilled Migrant / Kennismigrant in the Netherlands",
+        "markets": "All 17+ markets"
+      },
+      {
+        "type": "Intra-Company Transfer",
+        "example": "",
+        "markets": "All 17+ markets"
+      },
+      {
+        "type": "Dependent Family Member Permits",
+        "example": "",
+        "markets": "All 17+ markets"
+      },
+      {
+        "type": "Permit Renewals",
+        "example": "",
+        "markets": "All 17+ markets"
+      }
+    ]
+  },
+  "markets": {
+    "tag": "Coverage",
+    "title": "Where we hold recognised sponsor status",
+    "description": "We operate in 17 EMEA markets through owned legal entities, not partnerships. Our recognised sponsor status in each market is a legal prerequisite, not a marketing claim.",
+    "items": [
+      {
+        "flag": "🇧🇪",
+        "code": "be",
+        "name": "Belgium",
+        "href": "/belgium"
+      },
+      {
+        "flag": "🇨🇳",
+        "code": "cn",
+        "name": "China",
+        "href": "/china"
+      },
+      {
+        "flag": "🇨🇿",
+        "code": "cz",
+        "name": "Czech Republic",
+        "href": "/czech-republic"
+      },
+      {
+        "flag": "🇫🇷",
+        "code": "fr",
+        "name": "France",
+        "href": "/france"
+      },
+      {
+        "flag": "🇩🇪",
+        "code": "de",
+        "name": "Germany",
+        "href": "/germany"
+      },
+      {
+        "flag": "🇭🇰",
+        "code": "hk",
+        "name": "Hong Kong",
+        "href": "/hong-kong"
+      },
+      {
+        "flag": "🇭🇺",
+        "code": "hu",
+        "name": "Hungary",
+        "href": ""
+      },
+      {
+        "flag": "🇮🇳",
+        "code": "in",
+        "name": "India",
+        "href": "/india"
+      },
+      {
+        "flag": "🇮🇹",
+        "code": "it",
+        "name": "Italy",
+        "href": "/italy"
+      },
+      {
+        "flag": "🇳🇱",
+        "code": "nl",
+        "name": "Netherlands",
+        "href": "/hire-non-eu-employees-netherlands"
+      },
+      {
+        "flag": "🇵🇱",
+        "code": "pl",
+        "name": "Poland",
+        "href": "/poland"
+      },
+      {
+        "flag": "🇵🇹",
+        "code": "pt",
+        "name": "Portugal",
+        "href": ""
+      },
+      {
+        "flag": "🇷🇴",
+        "code": "ro",
+        "name": "Romania",
+        "href": ""
+      },
+      {
+        "flag": "🇪🇸",
+        "code": "es",
+        "name": "Spain",
+        "href": "/spain"
+      },
+      {
+        "flag": "🇸🇪",
+        "code": "se",
+        "name": "Sweden",
+        "href": ""
+      },
+      {
+        "flag": "🇦🇪",
+        "code": "ae",
+        "name": "UAE",
+        "href": "/uae"
+      },
+      {
+        "flag": "🇬🇧",
+        "code": "gb",
+        "name": "UK",
+        "href": "/united-kingdom"
+      }
+    ],
+    "partnerNote": {
+      "label": "Beyond these 17+ markets:",
+      "text": "We have a vetted partner network covering 100+ countries for larger-scale hiring requests (typically 20+ employees). If you're planning expansion into a market not on the list above, let's talk about scope."
+    }
+  },
+  "testimonials": {
+    "tag": "Client proof",
+    "title": "What our clients say",
+    "items": [
+      {
+        "quote": "Jackson & Frank combines a strong focus on quality with a practical, client-driven approach, helping businesses navigate the complexities of international business.",
+        "name": "Paul Halprin",
+        "role": "Founder, Halprin Law",
+        "synthetic": true,
+        "image": "/testimonials/paul-halprin.webp"
+      },
+      {
+        "quote": "During my co-operation with Jackson and Frank B.V., I have noticed that the management does not only do their HR jobs wonderfully, but has had a larger view of the global need of movement of talent and knowledge migrants. This mission ensures the excellence of their daily work and performance, and, in addition, substantially providing our clients with efficient and workable HR solutions. Their compliance has also given our clients great confidence to work with them.",
+        "name": "Xin Shi LLM",
+        "role": "Head of China Desk, Amice Advocaten",
+        "synthetic": false,
+        "image": "/testimonials/xin.webp"
+      },
+      {
+        "quote": "We really value our relationship with the team at Jackson & Frank. They're a great group of professionals to work with, knowledgeable, pragmatic, and always clear in how they approach complex cross-border matters. What we appreciate most is how practical they are. Their expertise in legal and workforce structuring, combined with a strong international perspective, makes them a trusted partner when navigating different jurisdictions.",
+        "name": "Robin Zijsling",
+        "role": "Founder, LM5 Capital",
+        "synthetic": false,
+        "image": "/testimonials/robin.webp"
+      }
+    ]
+  },
+  "faqs": {
+    "title": "Frequently asked questions",
+    "subtitle": "",
+    "items": [
+      {
+        "question": "Is immigration sold as a separate service?",
+        "answer": "Immigration at Jackson & Frank is handled as part of your EOR engagement, not as a standalone product. When we're your legal employer in a market, we're already the recognised sponsor, so immigration support is a natural extension of the same relationship. If you're new to Jackson & Frank, the best starting point is a conversation about EOR scope, and we'll include immigration in that discussion."
+      },
+      {
+        "question": "How long does the process take?",
+        "answer": "It depends on the country's immigration authority and the permit type. In the Netherlands, Highly Skilled Migrant permits typically process in 2-4 weeks through the IND. Most other markets run from 4 weeks upward, some are faster, some (particularly non-EU markets or complex intra-company cases) take longer. We'll give you a realistic estimate for your specific market during the initial scoping call."
+      },
+      {
+        "question": "What's the difference between using Jackson & Frank and using a standalone immigration firm?",
+        "answer": "A standalone immigration firm can file paperwork, but they're not the employer, so they can't be the recognised sponsor. They'll either work through your company's existing entity or route through a local partner. With Jackson & Frank, the same legal entity that employs your hire also sponsors the visa. One accountable provider, one file, one relationship."
+      },
+      {
+        "question": "Do you handle family visas and dependent permits?",
+        "answer": "Yes. Dependent family member permits are part of the service in all 17+ markets. We include them in the scoping conversation when the hire's family situation is relevant."
+      },
+      {
+        "question": "What if the hire needs a permit renewal later?",
+        "answer": "Renewals are handled through the same relationship. We track expiry dates and flag renewal timelines proactively, you don't need to manage a separate reminder process."
+      },
+      {
+        "question": "What markets do you cover?",
+        "answer": "We hold recognised sponsor status in 17+ markets through owned legal entities: Belgium, China, Czech Republic, France, Germany, Hong Kong, Hungary, India, Italy, Netherlands, Poland, Portugal, Romania, Spain, Sweden, UAE, and the UK. For hiring beyond these markets at scale (typically 20+ employees), we can discuss our partner network."
+      },
+      {
+        "question": "Is this service for individuals looking for visa-sponsored jobs?",
+        "answer": "No, Jackson & Frank works with companies, not individual job seekers. If you're looking for a role with visa sponsorship, you'd need to apply directly to employers who hold recognised sponsor status in the country you're targeting."
+      }
+    ]
+  },
+  "finalCta": {
+    "eyebrow": "Get started",
+    "title": "Bringing someone new into your EMEA team?",
+    "description": "Tell us the market, the role, and the nationality, we'll come back within 24 hours with a scope and a realistic timeline.",
+    "primaryText": "Talk to us about your hire",
+    "primaryReason": "immigration_services",
+    "secondaryPrefix": "Already a Jackson & Frank client?",
+    "secondaryText": "Contact your account manager",
+    "secondaryReason": "existing_client_immigration",
+    "secondarySuffix": "to add immigration to your engagement."
+  }
+}

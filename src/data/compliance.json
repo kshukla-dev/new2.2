@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "title": "Employment Compliance Services | Direct Entities in 17+ Markets | Jackson & Frank",
+    "description": "Compliance run by the team behind our own entities in 17+ markets — Belgium, France, Germany, Netherlands, UK and more. Continuous monitoring, quote-based pricing. Get a quote in 24 hours.",
+    "keywords": [
+      "Employment compliance",
+      "Labor law compliance",
+      "Tax compliance",
+      "Compliance services",
+      "Global compliance",
+      "Regulatory compliance",
+      "Compliance monitoring",
+      "Legal compliance",
+      "HR compliance",
+      "International compliance",
+      "Employment law",
+      "Compliance management",
+      "GDPR compliance",
+      "Regulatory risk"
+    ],
+    "openGraph": {
+      "title": "Employment Compliance Services | Direct Entities in 17+ Markets | Jackson & Frank",
+      "description": "Compliance run by the team behind our own entities in 17+ markets. Continuous monitoring, quote-based pricing. Get a compliance quote in 24 hours.",
+      "url": "/compliance",
+      "siteName": "Jackson & Frank",
+      "images": [
+        {
+          "url": "/services/service-page/compliances.webp",
+          "width": 1200,
+          "height": 630,
+          "alt": "Employment Compliance Services - Jackson & Frank"
+        }
+      ],
+      "locale": "en_US",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Employment Compliance Services | Direct Entities in 17+ Markets | Jackson & Frank",
+      "description": "Compliance run by the team behind our own entities in 17+ markets. Continuous monitoring, quote-based pricing.",
+      "images": [
+        "/services/service-page/compliances.webp"
+      ]
+    },
+    "alternates": {
+      "canonical": "/compliance"
+    }
+  },
+  "hero": {
+    "h1": "Compliance from the team behind ",
+    "titleAccent": "our own entities in 17+ markets",
+    "subheadline": "We operate directly in Belgium, China, Czech Republic, France, Germany, Hong Kong, India, Italy, the Netherlands, Poland, Spain, UAE, and the UK - so our compliance work in each market is grounded in what we do there every day.",
+    "primaryButtonText": "Get a compliance quote",
+    "secondaryButtonText": "Talk to our compliance team",
+    "proofStrip": [
+      "Founded 2013",
+      "Owned entities in 17+ markets"
+    ]
+  },
+  "pillars": {
+    "headline": "Three things that separate our compliance from a generic vendor's",
+    "items": [
+      {
+        "title": "We employ in your markets - every day, at scale",
+        "description": "J&F owns the entities in all 17+ markets we operate in. The compliance team supporting you handles the same regulators, tax authorities, and statutory updates for our own operations every month — as in-market operators, not advisors reading circulars from abroad. Some providers route through partner networks; ours is the same team you'd reach, in the same country, applying rules we already live by.",
+        "icon": "MapPin"
+      },
+      {
+        "title": "A team plus a system - both, together",
+        "description": "Our legal and compliance specialists across the markets we cover track regulatory changes continuously, backed by a system that surfaces updates the moment they land. Automation catches what humans miss; humans catch what automation isn't built to see. You get both.",
+        "icon": "Users"
+      },
+      {
+        "title": "Pricing that reflects your situation, not a package",
+        "description": "Compliance in one country looks nothing like a multi-entity setup across five. Instead of a flat package, we quote based on your specific setup — and the quote comes back within 24 hours.",
+        "icon": "Calculator"
+      }
+    ]
+  },
+  "coverage": {
+    "headline": "What \"compliance\" actually covers, in one place",
+    "subheadline": "One team covers all four areas below, in every market we operate in.",
+    "items": [
+      {
+        "title": "Employment law",
+        "description": "Contracts, working hours, leave entitlements, termination and severance, employee rights.",
+        "icon": "FileText"
+      },
+      {
+        "title": "Tax",
+        "description": "Income tax withholding, social security contributions, payroll tax filing, year-end reporting.",
+        "icon": "Receipt"
+      },
+      {
+        "title": "Benefits and statutory requirements",
+        "description": "Pension contributions, statutory leave, health insurance, local benefit mandates.",
+        "icon": "Heart"
+      },
+      {
+        "title": "Regulatory monitoring",
+        "description": "Legislative changes tracked continuously, with updates applied to your setup as they happen.",
+        "icon": "Bell"
+      }
+    ]
+  },
+  "process": {
+    "headline": "How it works, and how long each step takes",
+    "buttonText": "Get a compliance quote",
+    "buttonLink": "/contact?reason=compliance_questions",
+    "steps": [
+      {
+        "number": 1,
+        "timing": "Within 48 hours",
+        "title": "Assessment",
+        "description": "We review your current position — contracts, policies, payroll, workforce structure — against the requirements in each market you operate in. You get a clear picture of where you stand within 48 hours."
+      },
+      {
+        "number": 2,
+        "timing": "2 to 6 weeks",
+        "title": "Implementation",
+        "description": "We put the gaps right: updated policies, aligned contracts, documentation, and any needed process changes. A single-market update moves faster than a multi-entity overhaul."
+      },
+      {
+        "number": 3,
+        "timing": "Continuous",
+        "title": "Monitoring",
+        "description": "Compliance drift is the harder problem, not the initial setup. Our team tracks regulatory changes in your markets continuously and flags what needs your attention before it matters."
+      }
+    ]
+  },
+  "proof": {
+    "headline": "Trusted by 700+ companies across our markets",
+    "subheadline": "What working with an in-market compliance team looks like, in our clients' own words.",
+    "featured": {
+      "quote": "During my co-operation with Jackson and Frank B.V., I have noticed that the management does not only do their HR jobs wonderfully, but has had a larger view of the global need of movement of talent and knowledge migrants. This mission ensures the excellence of their daily work and performance — and, in addition, substantially providing our clients with efficient and workable HR solutions. Their compliance has also given our clients great confidence to work with them.",
+      "author": "Xin Shi LLM",
+      "role": "Head of China Desk, Amice Advocaten",
+      "image": "/testimonials/xin.webp"
+    },
+    "testimonials": [
+      {
+        "quote": "We really value our relationship with the team at Jackson & Frank. They're a great group of professionals to work with, knowledgeable, pragmatic, and always clear in how they approach complex cross-border matters. What we appreciate most is how practical they are. Their expertise in legal and workforce structuring, combined with a strong international perspective, makes them a trusted partner when navigating different jurisdictions.",
+        "author": "Robin Zijsling",
+        "role": "Founder, LM5 Capital",
+        "image": "/testimonials/robin-zijsling.webp"
+      },
+      {
+        "quote": "Jackson & Frank combines a strong focus on quality with a practical, client-driven approach, helping businesses navigate the complexities of international business.",
+        "author": "Paul Halprin",
+        "role": "Founder, Halprin Law",
+        "image": "/testimonials/paul-halprin.webp"
+      }
+    ]
+  },
+  "risks": {
+    "headline": "Real risks — and what we do about each one",
+    "items": [
+      {
+        "risk": "Financial penalties.",
+        "riskDesc": "Local authorities levy meaningful fines for non-compliance.",
+        "response": "We catch the changes that trigger them, in the same jurisdictions you operate in."
+      },
+      {
+        "risk": "Legal liability.",
+        "riskDesc": "Disputes with employees or regulators can escalate quickly.",
+        "response": "We know how these processes work locally because we handle them ourselves, in the same markets, for our own operations."
+      },
+      {
+        "risk": "Business disruption.",
+        "riskDesc": "Compliance issues stall projects and delay hiring.",
+        "response": "Continuous monitoring exists to surface changes early, so you have time to respond."
+      },
+      {
+        "risk": "Reputation damage.",
+        "riskDesc": "Compliance failures reach clients, employees, and partners eventually.",
+        "response": "A team accountable in your markets makes the difference between a caught issue and a public one."
+      }
+    ]
+  },
+  "eorBridge": {
+    "headline": "Want compliance handled entirely, not just managed?",
+    "body": "Add EOR, and J&F becomes the legal employer outright — full compliance responsibility transfers to us, along with the employment relationship itself. This is where the liability actually moves off your books.",
+    "benefits": [
+      {
+        "title": "Full compliance transfer",
+        "description": "As the legal employer, complete compliance responsibility becomes ours."
+      },
+      {
+        "title": "Legal exposure sits with us",
+        "description": "Penalties, fines, and disputes become ours to handle."
+      },
+      {
+        "title": "Same compliance team",
+        "description": "No handoff when you add EOR."
+      },
+      {
+        "title": "Continuous monitoring included",
+        "description": "Extended to the full employment relationship."
+      }
+    ],
+    "buttonText": "Learn more about EOR",
+    "buttonLink": "/employer-of-record"
+  },
+  "faqs": {
+    "title": "Frequently asked questions",
+    "subtitle": "",
+    "items": [
+      {
+        "question": "Why is compliance important?",
+        "answer": "Non-compliance risks fines, legal liability, operational disruption, and reputational damage. Beyond that, having a team accountable in each of your markets means issues get caught before they escalate — early, not after."
+      },
+      {
+        "question": "How do you monitor regulatory changes?",
+        "answer": "Our compliance team — specialists in each market we operate in — tracks changes continuously, backed by a system that flags updates as they happen. Ongoing, not periodic."
+      },
+      {
+        "question": "What happens if I'm not compliant?",
+        "answer": "We start with an assessment (within 48 hours) to identify the gaps, then move to implementation — typically 2 to 6 weeks depending on scope and number of markets. Monitoring is continuous from there, so you don't drift back out."
+      },
+      {
+        "question": "How does EOR help with compliance?",
+        "answer": "With EOR, J&F becomes the legal employer, and full compliance responsibility transfers to us — not just monitoring and advisory. <a href=\"/employer-of-record\" class=\"faq-link\">Learn more about EOR &rarr;</a>"
+      },
+      {
+        "question": "What countries do you cover?",
+        "answer": "We hold direct entities in 17+ markets: Belgium, China, Czech Republic, France, Germany, Hong Kong, India, Italy, the Netherlands, Poland, Spain, UAE, and the UK. For markets outside this list, our reach extends further — <a href=\"/contact\" class=\"faq-link\">contact us &rarr;</a>."
+      },
+      {
+        "question": "Do you help with GDPR and data privacy compliance?",
+        "answer": "Yes. GDPR and data privacy compliance is part of our service. We help with data processing agreements, privacy notices, and cross-border data flows, so employee and client data is handled in line with applicable privacy laws in each market."
+      },
+      {
+        "question": "What if we already have a local entity?",
+        "answer": "Compliance support works alongside an existing entity — you don't need to give it up. This sits closer to our standalone compliance service than to EOR (since EOR specifically means J&F becomes the legal employer). Where you have entities, we support compliance monitoring, policy reviews, and advisory; where you don't, EOR can remove the burden entirely."
+      },
+      {
+        "question": "How do you handle works council and employee representation?",
+        "answer": "Where works councils or employee representation apply, we work within the required processes and support information and consultation obligations. Our local teams understand these requirements in each jurisdiction."
+      }
+    ]
+  },
+  "finalCta": {
+    "headline": "Ready to talk to a compliance team already in your markets?",
+    "subheadline": "Tell us your markets and current setup. We'll come back with a quote within 24 hours.",
+    "buttonText": "Get a compliance quote",
+    "buttonLink": "/contact?reason=compliance_questions",
+    "proofLine": "Trusted by 700+ companies · Owned entities in 17+ markets"
+  }
+}

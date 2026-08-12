@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "title": "Events",
+    "description": "Join Jackson & Frank events: workshops, webinars and conferences on global HR, international expansion, EU compliance, and cross-border M&A strategies for 2026."
+  },
+  "events": [
+    {
+      "id": "china-europe-2026",
+      "slug": "china-europe-2026",
+      "title": "China to Europe 2026: Scaling Beyond Borders",
+      "excerpt": "Workshops on cross-border M&A strategies, market entry, and EU regulatory frameworks. Join industry leaders and strategists.",
+      "startDate": "2026-03-18",
+      "endDate": "2026-03-18",
+      "time": "15:00",
+      "venue": "The European Museum",
+      "detailHref": "/en/china-europe-2026",
+      "articleHref": "/resources/events/china-europe-2026-article",
+      "type": "conference",
+      "registrationEndDate": "2026-03-17"
+    }
+  ]
+}

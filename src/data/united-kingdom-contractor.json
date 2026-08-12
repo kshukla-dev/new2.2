@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "title": "UK Contractor Management Services | Jackson & Frank",
+    "description": "UK contractor management and compliant onboarding. Engage contractors in the UK. IR35 / off-payroll working, PSC and umbrella considerations, HMRC compliance, CIS where relevant. Fast onboarding.",
+    "keywords": [
+      "UK contractor management",
+      "UK contractor services",
+      "hire contractors UK",
+      "UK contractor compliance",
+      "UK contractor payroll",
+      "IR35 compliance",
+      "off-payroll working UK",
+      "PSC contractor UK",
+      "UK freelancer management",
+      "CIS contractors UK",
+      "London contractor services",
+      "UK independent contractor"
+    ]
+  },
+  "faqs": {
+    "title": "UK Contractor FAQs",
+    "subtitle": "",
+    "items": [
+      {
+        "question": "What is IR35 and does it affect our contractors?",
+        "answer": "IR35 (off-payroll working) can make a client or fee-payer responsible for PAYE if a contractor would be deemed an employee for tax purposes. For medium and large clients, the client usually determines status. We help document assessments and structure engagements to reduce risk."
+      },
+      {
+        "question": "How fast can we onboard a UK contractor?",
+        "answer": "With complete KYC, contracts, and payment details, onboarding often takes a few business days. IR35 determinations and umbrella or agency chains may add steps."
+      },
+      {
+        "question": "Can we convert a contractor to an employee?",
+        "answer": "Yes. If employment is the right model, we can onboard them via UK EOR with PAYE, NI, pension auto-enrolment, and statutory rights."
+      },
+      {
+        "question": "Do you support construction industry contractors (CIS)?",
+        "answer": "Where engagements fall under CIS, we help coordinate verification, deductions, and reporting in line with HMRC rules scoped to your operating model."
+      },
+      {
+        "question": "What about personal service companies (PSCs)?",
+        "answer": "Many UK contractors operate through their own limited company. Contracts, IR35 status, and payment routes (direct to PSC vs umbrella) should align. We support compliant B2B invoicing and documentation."
+      }
+    ]
+  }
+}

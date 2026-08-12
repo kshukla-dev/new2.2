@@ -1,0 +1,132 @@
+{
+  "title": "What our clients are saying",
+  "subtitle": "Jackson & Frank is trusted globally with thousands of positive customer reviews, reflecting our commitment to quality and reliability.",
+  "testimonials": [
+    {
+      "id": "18",
+      "name": "Robin Zijsling",
+      "role": "Partner at LM5 Capital",
+      "image": "/testimonials/robin-zijsling.webp",
+      "review": "We really value our relationship with the team at Jackson & Frank. They’re a great group of professionals to work with, knowledgeable, pragmatic, and always clear in how they approach complex cross border matters. What we appreciate most is how practical they are. Their expertise in legal and workforce structuring, combined with a strong international perspective, makes them a trusted partner when navigating different jurisdictions. It was great to spend some time together again recently in Shanghai and continue building on a partnership we genuinely enjoy. Thanks again to the Jackson & Frank team. Looking forward to many more conversations ahead."
+    },
+    {
+      "id": "16",
+      "name": "Xin Shi",
+      "role": "Partner, Amice Advocaten",
+      "image": "/testimonials/xin.webp",
+      "review": "During my co-operation with Jackson and Frank B.V. , I have noticed that the management does not only do their HR jobs wonderfully, but has had a larger view of the global need of movement of talent and knowledges migrants. This mission ensures the excellence of their daily work and performance , but in addition, substantially providing our clients the efficient and workable HR solutions. Their compliance also has given our clients great confidence to work with them."
+    },
+    {
+      "id": "17",
+      "name": "Paul Halprin",
+      "role": "Founder, Halprin Law",
+      "image": "/testimonials/paul-halprin.webp",
+      "review": "Jackson & Frank combines a strong focus on quality with a practical, client-driven approach, helping businesses navigate the complexities of international business"
+    },
+    {
+      "id": "1",
+      "name": "Lina C.",
+      "role": "Global HR Manager",
+      "image": "/testimonials/lina.webp",
+      "review": "Our expansion into Germany and France wouldn't have been possible without the team's guidance. What stood out to me was their local knowledge—they set up compliant employment contracts and streamlined payroll within just a few weeks, ensuring our launch stayed on schedule."
+    },
+    {
+      "id": "2",
+      "name": "Anya M.",
+      "role": "Regional HR Director",
+      "image": "/testimonials/Anya.webp",
+      "review": "Our biggest hurdle was relocating specialists to new regions with different labor laws. The support we received went beyond what I expected. Marco in mobility made sure every visa and relocation detail was handled with precision. They even arranged schooling for one of our employees' children, which was a big relief for their family."
+    },
+    {
+      "id": "3",
+      "name": "Priya T.",
+      "role": "Head of Global Payroll",
+      "image": "/testimonials/priya.webp",
+      "review": "I've worked with various providers, but this has been the most stress-free experience. From day one, the payroll team understood our requirements and kept communication clear and direct. We scaled operations across five countries, and every process—tax filings, compliance updates, you name it—was handled efficiently."
+    },
+    {
+      "id": "4",
+      "name": "Mark J.",
+      "role": "Operations Manager",
+      "image": "/testimonials/mark.webp",
+      "review": "When we entered new European markets, navigating compliance issues felt overwhelming. The team's expertise in employment regulations was invaluable. From onboarding to managing social security contributions, everything was handled far more smoothly than I expected. Ritu went above and beyond to ensure everything was in order. It was reassuring to have such knowledgeable professionals supporting us."
+    },
+    {
+      "id": "5",
+      "name": "James R.",
+      "role": "CTO",
+      "image": "/testimonials/James.webp",
+      "review": "I was hesitant about managing payroll across multiple countries, but this team made it feel so easy. Gaurav in the support team personally walked me through compliance requirements, and the system integration was completed ahead of schedule. Now, I never worry about delays or errors—it's all taken care of."
+    },
+    {
+      "id": "6",
+      "name": "Sarah K.",
+      "role": "VP of People Operations",
+      "image": "/testimonials/2.webp",
+      "review": "We needed to hire talent in Spain and Italy quickly, and Jackson & Frank delivered beyond expectations. Their EOR solution allowed us to onboard 15 engineers in just three weeks. The compliance team ensured every contract met local regulations, and their payroll system integrated seamlessly with our HRIS. Highly recommend their services."
+    },
+    {
+      "id": "7",
+      "name": "David L.",
+      "role": "Founder & CEO",
+      "image": "/testimonials/10.webp",
+      "review": "As a startup expanding internationally, we needed a partner who could scale with us. Jackson & Frank has been that partner. They've helped us hire in 8 countries now, and each expansion has been smoother than the last. Their transparent pricing and responsive support team make them stand out from other providers we've worked with."
+    },
+    {
+      "id": "8",
+      "name": "Maria S.",
+      "role": "Director of Talent Acquisition",
+      "image": "/testimonials/lina.webp",
+      "review": "The mobility services here are exceptional. When we needed to relocate key team members to the Netherlands, they handled everything from visa applications to housing assistance. Their local expertise in Dutch employment law saved us months of research. Our employees felt supported throughout the entire process."
+    },
+    {
+      "id": "9",
+      "name": "Robert T.",
+      "role": "CFO",
+      "image": "/testimonials/4.avif",
+      "review": "Managing payroll and compliance across multiple jurisdictions was becoming a nightmare until we partnered with Jackson & Frank. Their platform gives us real-time visibility into all our international employees, and their team proactively keeps us updated on regulatory changes. It's been a game-changer for our finance operations."
+    },
+    {
+      "id": "10",
+      "name": "Emma W.",
+      "role": "Head of International Expansion",
+      "image": "/testimonials/3.webp",
+      "review": "We evaluated several EOR providers before choosing Jackson & Frank, and I'm so glad we did. Their understanding of European employment regulations is impressive, and they've helped us navigate complex situations in Germany and France. The team is always available when we need them, and their documentation is thorough and clear."
+    },
+    {
+      "id": "11",
+      "name": "Carlos M.",
+      "role": "VP of Engineering",
+      "image": "/testimonials/5.webp",
+      "review": "Hiring remote developers across Europe used to be complicated, but Jackson & Frank simplified everything. They handle all the legal and administrative work, so we can focus on building great products. Their contractor management services are particularly strong—we've onboarded 20+ contractors through them with zero issues."
+    },
+    {
+      "id": "12",
+      "name": "Jennifer H.",
+      "role": "Chief People Officer",
+      "image": "/testimonials/7.webp",
+      "review": "What I appreciate most about Jackson & Frank is their proactive approach. They don't just process payroll—they anticipate potential compliance issues and help us avoid them. When new labor laws were introduced in Portugal, they reached out immediately with guidance. That level of service is rare and valuable."
+    },
+    {
+      "id": "13",
+      "name": "Michael B.",
+      "role": "Operations Director",
+      "image": "/testimonials/6.avif",
+      "review": "We've been working with Jackson & Frank for over two years now, and they've consistently exceeded our expectations. Their technology platform is intuitive, their support team is knowledgeable, and their pricing is competitive. They've become an essential part of our global operations strategy."
+    },
+    {
+      "id": "14",
+      "name": "Sophie D.",
+      "role": "Global Talent Manager",
+      "image": "/testimonials/8.avif",
+      "review": "The onboarding process with Jackson & Frank was seamless. They assigned us a dedicated account manager who understood our business needs from day one. Whether it's setting up new employees in the UK or managing benefits in Sweden, they handle it all with professionalism and attention to detail."
+    },
+    {
+      "id": "15",
+      "name": "Thomas P.",
+      "role": "VP of Sales",
+      "image": "/testimonials/9.avif",
+      "review": "Expanding our sales team across Europe required a partner who could move fast. Jackson & Frank enabled us to hire in 5 countries within 2 months. Their EOR solution meant we didn't need to establish local entities, saving us significant time and money. The ROI has been excellent."
+    }
+  ]
+}

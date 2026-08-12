@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "title": "About Us - Global Workforce Solutions ",
+    "description": "Learn about Jackson & Frank's mission, values, and global workforce solutions. EOR, payroll, and compliance services across 17+ countries worldwide.",
+    "keywords": [
+      "about Jackson & Frank",
+      "global workforce provider",
+      "EOR company",
+      "international HR company",
+      "global employment services",
+      "workforce solutions provider",
+      "international business partner",
+      "global expansion services",
+      "worldwide HR provider",
+      "international employment company"
+    ],
+    "openGraph": {
+      "title": "About Us - Global Workforce Solutions",
+      "description": "Learn about Jackson & Frank's mission, values, and global workforce solutions. EOR, payroll, and compliance services across 17+ countries worldwide.",
+      "url": "/about-us",
+      "siteName": "Jackson & Frank",
+      "images": [
+        {
+          "url": "/services/service-page/about.webp",
+          "width": 1200,
+          "height": 630,
+          "alt": "About Jackson & Frank - Global Workforce Solutions"
+        }
+      ],
+      "locale": "en_US",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "About Us - Global Workforce Solutions",
+      "description": "Learn about Jackson & Frank's mission, values, and global workforce solutions. EOR, payroll, and compliance services across 17+ countries worldwide.",
+      "images": [
+        "/services/service-page/about.webp"
+      ]
+    },
+    "alternates": {
+      "canonical": "/about-us"
+    }
+  },
+  "definition": {
+    "title": "About us",
+    "subtitle": "Your trusted partner in global workforce solutions",
+    "description": "We're on a mission to make global hiring simple, compliant, and accessible for businesses of all sizes. Your trusted partner in building world-class international teams.",
+    "image": "/services/service-page/about.webp",
+    "imageAlt": "Global Community - Jackson & Frank",
+    "keyFeatures": [
+      "Global compliance",
+      "Local expertise",
+      "Fast setup"
+    ],
+    "primaryButtonText": "Get started today",
+    "secondaryButtonText": "Book a call",
+    "primaryButtonReason": "general",
+    "secondaryButtonReason": "consultation",
+    "trustSignals": {
+      "title": "Trusted by companies worldwide",
+      "subtitle": "Numbers that reflect our commitment to excellence and client success.",
+      "stats": [
+        {
+          "value": "17+",
+          "label": "countries",
+          "description": "Owned Markets"
+        },
+        {
+          "value": "700+",
+          "label": "companies",
+          "description": "trust us"
+        },
+        {
+          "value": "1,400+",
+          "label": "employees",
+          "description": "across multiple countries"
+        },
+        {
+          "value": "2013",
+          "label": "founded",
+          "description": "over a decade of experience"
+        }
+      ]
+    }
+  },
+  "faqs": {
+    "title": "Frequently asked questions",
+    "subtitle": "",
+    "items": [
+      {
+        "question": "Where is Jackson & Frank headquartered?",
+        "answer": "Jackson & Frank is headquartered in Arnhem, The Netherlands, with offices at 15+ countries and partners in 17+ countries and the ability to employ and pay talent in 17+ countries worldwide."
+      },
+      {
+        "question": "How long has Jackson & Frank been in business?",
+        "answer": "Our holding company was founded in 2013. We have over a decade of experience in global HR, payroll, and compliance, with specialized expertise in European labor laws and tax."
+      },
+      {
+        "question": "What makes Jackson & Frank different from other EOR providers?",
+        "answer": "We combine 50+ years of combined HR expertise with high-touch service: real experts, full compliance and licensing (e.g. AÜG, NeN, GDPR), and 24/7 local support. We offer end-to-end solutions from immigration and onboarding to payroll and offboarding."
+      },
+      {
+        "question": "Can Jackson & Frank help with compliance and legal requirements?",
+        "answer": "Yes. We are fully licensed and compliant in the jurisdictions we operate in, including GDPR, employee leasing authorizations, and local labor and tax regulations. We handle contracts, payroll, and statutory requirements so you stay compliant."
+      },
+      {
+        "question": "What industries do you serve?",
+        "answer": "We serve a wide range of industries including technology, retail, professional services, automotive, and more. Our EOR, payroll, and compliance solutions are industry-agnostic and tailored to each client's needs."
+      },
+      {
+        "question": "Do you have local offices or only partners?",
+        "answer": "We have offices in 17+ countries and a partner network across 17+ countries. Where we have an office, you get direct local support; elsewhere we work with vetted local partners to ensure the same quality."
+      },
+      {
+        "question": "How do you ensure data security and privacy?",
+        "answer": "We are GDPR-compliant and follow strict data security practices. Employee and client data is stored securely, with access controls and encryption. We can provide more detail on request and in our data processing agreements."
+      },
+      {
+        "question": "What makes your team different?",
+        "answer": "Our team combines 50+ years of HR expertise with 19+ years in tax and compliance. We focus on high-touch service with real experts no SaaS-only approach. You work with people who understand local laws and your business."
+      }
+    ]
+  },
+  "worldValues": [
+    {
+      "letter": "W",
+      "title": "Winners",
+      "description": "We measure our success by our clients’ outcomes. If our clients win, we win."
+    },
+    {
+      "letter": "O",
+      "title": "Ownership",
+      "description": "We take responsibility from start to finish. Accountability is non-negotiable."
+    },
+    {
+      "letter": "R",
+      "title": "Responsive",
+      "description": "We are always available for our clients. We act fast and communicate clearly."
+    },
+    {
+      "letter": "L",
+      "title": "Leading",
+      "description": "We lead in workforce solutions, combining local expertise with a global perspective to keep our clients ahead."
+    },
+    {
+      "letter": "D",
+      "title": "Down to Earth",
+      "description": "We provide clear, practical advice. We explain what matters, what to do next, and why it works."
+    }
+  ],
+  "milestones": [
+    {
+      "year": "2013",
+      "description": "Founded Macee BV (Jackson & Frank's partner company) in the Netherlands, focusing on providing HR solutions to the Dutch market."
+    },
+    {
+      "year": "2014",
+      "description": "Achieved a significant milestone of employing 100+ people, establishing a strong foundation."
+    },
+    {
+      "year": "2015",
+      "description": "Secured the prestigious NeN Staffing License, demonstrating our commitment to compliance and high standards."
+    },
+    {
+      "year": "2016-2017",
+      "description": "Expanded operations into Belgium and the Czech Republic, broadening our European presence and capabilities."
+    },
+    {
+      "year": "2018",
+      "description": "Reached 500+ employees by supporting 250+ companies globally, marking a new phase of growth and operational scale."
+    },
+    {
+      "year": "2019-2022",
+      "description": "Launched Jackson and Frank as Macee's sister company, opening entities in the Netherlands, Germany, and Italy."
+    },
+    {
+      "year": "2023",
+      "description": "Extended our reach to Poland, France and UK, achieving a workforce of 1,400+ employees across multiple countries."
+    },
+    {
+      "year": "2024",
+      "description": "Worked with our 700th client while expanding into Belgium, Czech Republic, and Spain."
+    },
+    {
+      "year": "2025",
+      "description": "Expanded into China by launching our HR Boutique and opening offices in Shanghai and Hong Kong."
+    }
+  ],
+  "team": [
+    {
+      "name": "Maarten Koekebakker",
+      "role": "Partner",
+      "image": "/leadership/Maarten.webp",
+      "bio": "With a wealth of experience in navigating the intricate landscapes of international expansion strategy and human resources, Maarten stands as a seasoned professional adept at driving organizational growth and success on a global scale. His in-depth understanding of global labor regulations empowers organizations to navigate complex legal frameworks with ease."
+    },
+    {
+      "name": "Pawel Michalkiewicz",
+      "role": "Managing partner",
+      "image": "/leadership/pawel2.webp",
+      "bio": "Pawel brings over two decades of hands-on experience in international business development and human resource management to the table. Having held pivotal roles in multinational corporations across various industries, he possesses a keen understanding of the complexities and challenges inherent in scaling businesses across borders."
+    }
+  ],
+  "countryImages": {
+    "The Netherlands": "/countries/eor-netherlands.webp",
+    "India": "/countries/eor-india.webp",
+    "Poland": "/countries/eor-poland.webp",
+    "United Kingdom": "/countries/eor-uk.webp",
+    "Germany": "/countries/eor-germany.webp",
+    "Italy": "/countries/eor-Italy.webp",
+    "Czech Republic": "/countries/eor-czech.webp",
+    "France": "/countries/eor-france.webp",
+    "Belgium": "/countries/eor-belgium.webp",
+    "Spain": "/countries/eor-spain.webp",
+    "UAE": "/countries/eor-uae.webp",
+    "Hong Kong": "/countries/eor-hong-kong.webp",
+    "China": "/countries/eor-china.webp",
+    "Portugal": "/countries/portugal.webp",
+    "Sweden": "/countries/sweden.webp",
+    "Hungary": "/countries/hungary.webp",
+    "Romania": "/countries/romania.webp"
+  },
+  "flagUrls": {
+    "The Netherlands": "/countries/flag/Flag_of_the_Netherlands.svg.webp",
+    "India": "/countries/flag/Flag_of_India.svg.webp",
+    "Poland": "/countries/flag/Flag_of_Poland.svg.webp",
+    "United Kingdom": "/countries/flag/Flag-United-Kingdom.webp",
+    "Germany": "/countries/flag/Flag_of_Germany_(3-2).svg.webp",
+    "Italy": "/countries/flag/Flag_of_Italy.svg.webp",
+    "France": "/countries/flag/Flag_of_France.svg.webp",
+    "Belgium": "/countries/flag/Flag_of_Belgium.svg.webp",
+    "Spain": "/countries/flag/Flag_of_Spain.svg.webp",
+    "Czech Republic": "/countries/flag/Flag_of_the_Czech_Republic.svg.webp",
+    "China": "/countries/flag/Flag_of_the_People's_Republic_of_China.svg.webp",
+    "Hong Kong": "/countries/flag/Flag_of_Hong_Kong.svg (1).webp",
+    "UAE": "/countries/flag/Flag_of_the_United_Arab_Emirates.svg"
+  },
+  "flags": {
+    "The Netherlands": "🇳🇱",
+    "India": "🇮🇳",
+    "Poland": "🇵🇱",
+    "United Kingdom": "🇬🇧",
+    "Germany": "🇩🇪",
+    "Italy": "🇮🇹",
+    "France": "🇫🇷",
+    "Portugal": "🇵🇹",
+    "Sweden": "🇸🇪",
+    "Hungary": "🇭🇺",
+    "Romania": "🇷🇴",
+    "Czech Republic": "🇨🇿",
+    "Belgium": "🇧🇪",
+    "Spain": "🇪🇸",
+    "UAE": "🇦🇪",
+    "Hong Kong": "🇭🇰",
+    "China": "🇨🇳"
+  },
+  "shortAddresses": {
+    "The Netherlands": "Arnhem, Netherlands",
+    "India": "Nagpur, Mumbai",
+    "Poland": "Warsaw",
+    "United Kingdom": "London",
+    "Germany": "Berlin",
+    "Italy": "Milan",
+    "France": "Paris"
+  },
+  "offices": {
+    "The Netherlands": [
+      {
+        "city": "Arnhem",
+        "address": "Nieuwe Stationsstraat 10, 6811 KS"
+      }
+    ],
+    "India": [
+      {
+        "city": "Nagpur",
+        "address": "Tech Park, 440022"
+      },
+      {
+        "city": "Mumbai",
+        "address": "Bandra Kurla Complex, 400051"
+      }
+    ],
+    "Germany": [
+      {
+        "city": "Berlin",
+        "address": "Kurfürstenstraße 15, 10785"
+      },
+      {
+        "city": "Munich",
+        "address": "Bavaria Towers, 80331"
+      },
+      {
+        "city": "Hamburg",
+        "address": "ABC-Straße 45, 20354"
+      }
+    ]
+  }
+}

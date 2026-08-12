@@ -1,0 +1,79 @@
+{
+  "header": "Global employment services, designed for growth",
+  "subHeader": "We offer a range of services to help you hire, manage, and scale your workforce worldwide.",
+  "services": [
+    {
+      "id": "eor",
+      "title": "Employer of record",
+      "subtitle": "Hire, onboard, and manage global talent",
+      "description": "Quickly expand your global workforce across 17+ countries without establishing a local entity. We become your local HR partner.",
+      "icon": "Building2",
+      "features": [
+        "Direct employer of record (EOR)",
+        "Managed service provider (MSP)",
+        "Employment management (PEO)",
+        "Payroll administration"
+      ],
+      "href": "/employer-of-record"
+    },
+    {
+      "id": "immigration",
+      "title": "Immigration",
+      "subtitle": "Secure work visas & permits",
+      "description": "Support your workforce wherever they are with the right visas and work permits to work legally.",
+      "icon": "Globe",
+      "features": [
+        "Workforce cost assessment",
+        "Market entry support",
+        "Visa processing and relocation assistance",
+        "Housing and education support",
+        "Labor contract drafting"
+      ],
+      "href": "/immigration"
+    },
+    {
+      "id": "payroll",
+      "title": "Payroll",
+      "subtitle": "Simplify workforce payroll",
+      "description": "Manage salaries, taxes, and benefits across borders with compliant, automated payroll solution.",
+      "icon": "Calculator",
+      "features": [
+        "Multi-country payroll processing",
+        "Payroll consolidation",
+        "Centralized payroll management",
+        "Social security and benefits calculation",
+        "Tax calculations and reporting"
+      ],
+      "href": "/payroll"
+    },
+    {
+      "id": "compliance",
+      "title": "Compliance",
+      "subtitle": "Stay compliant wherever you operate",
+      "description": "We manage local labor laws, tax regulations, and compliance risks so your business stays on track.",
+      "icon": "Shield",
+      "features": [
+        "Local labor law and compliance teams",
+        "Regulatory updates",
+        "Tax and employment law consulting",
+        "Risk assessment and mitigation",
+        "Expert local audit and tax teams"
+      ],
+      "href": "/compliance"
+    },
+    {
+      "id": "contractor",
+      "title": "Contractor",
+      "subtitle": "Access global talent with compliant contractor agreements",
+      "description": "We handle contract signings and tax form collections seamlessly, ensuring compliance with local regulations.",
+      "icon": "Users",
+      "href": "/contractor",
+      "features": [
+        "Contract signing and tax form collections",
+        "Compliance with local regulations",
+        "Seamless onboarding process",
+        "Expert local audit and tax teams"
+      ]
+    }
+  ]
+}

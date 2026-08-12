@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "title": "Client Testimonials: from Global Companies",
+    "description": "Discover what our clients say about Jackson & Frank. Real stories from HR leaders, CEOs, and operations teams who scaled globally with our EOR, payroll, immigration, and compliance services.",
+    "keywords": [
+      "client testimonials",
+      "Jackson & Frank reviews",
+      "EOR client reviews",
+      "global HR testimonials",
+      "customer stories",
+      "case studies",
+      "client feedback",
+      "global hiring testimonials",
+      "international payroll reviews",
+      "compliance service reviews"
+    ]
+  },
+  "definition": {
+    "title": "Loved by teams hiring globally",
+    "subtitle": "What our clients say",
+    "description": "From fast-growing startups to global enterprises, HR and operations leaders trust Jackson & Frank to expand into new markets with compliance, speed, and peace of mind. Hear their stories.",
+    "image": "/services/service-page/advantags.webp",
+    "imageAlt": "Happy global teams working with Jackson & Frank",
+    "keyFeatures": [
+      "700+ companies served worldwide",
+      "Average 4.9 / 5 client satisfaction",
+      "99.5% client retention rate",
+      "Trusted across 17+ countries"
+    ],
+    "primaryButtonText": "Talk to our team",
+    "secondaryButtonText": "Book a call",
+    "primaryButtonReason": "general",
+    "secondaryButtonReason": "consultation",
+    "trustSignals": {
+      "title": "Trusted by global teams",
+      "subtitle": "Numbers that reflect the trust our clients place in us every day.",
+      "stats": [
+        {
+          "value": "700+",
+          "label": "companies",
+          "description": "trust Jackson & Frank"
+        },
+        {
+          "value": "4.9 / 5",
+          "label": "satisfaction",
+          "description": "average client rating"
+        },
+        {
+          "value": "99.5%",
+          "label": "retention",
+          "description": "of clients renew with us"
+        },
+        {
+          "value": "17+",
+          "label": "countries",
+          "description": "in our global network"
+        }
+      ]
+    }
+  },
+  "featured": {
+    "subtitle": "Customer spotlight",
+    "title": "Real stories, real outcomes",
+    "description": "Three of the leaders we've partnered with share how Jackson & Frank helped them launch faster, stay compliant, and scale across borders without the usual friction.",
+    "items": [
+      {
+        "id": "spotlight-1",
+        "name": "Lina C.",
+        "role": "Global HR Manager",
+        "company": "European Tech Company",
+        "image": "/testimonials/lina.webp",
+        "country": "Germany & France",
+        "metric": "2 markets launched in 4 weeks",
+        "review": "Our expansion into Germany and France wouldn't have been possible without the team's guidance. What stood out to me was their local knowledge-they set up compliant employment contracts and streamlined payroll within just a few weeks, ensuring our launch stayed on schedule."
+      },
+      {
+        "id": "spotlight-2",
+        "name": "Sarah K.",
+        "role": "VP of People Operations",
+        "company": "Engineering Startup",
+        "image": "/testimonials/2.webp",
+        "country": "Spain & Italy",
+        "metric": "15 engineers onboarded in 3 weeks",
+        "review": "We needed to hire talent in Spain and Italy quickly, and Jackson & Frank delivered beyond expectations. Their EOR solution allowed us to onboard 15 engineers in just three weeks. The compliance team ensured every contract met local regulations, and their payroll system integrated seamlessly with our HRIS."
+      },
+      {
+        "id": "spotlight-3",
+        "name": "David L.",
+        "role": "Founder & CEO",
+        "company": "Global SaaS Startup",
+        "image": "/testimonials/10.webp",
+        "country": "8 countries",
+        "metric": "Scaled to 8 countries with one partner",
+        "review": "As a startup expanding internationally, we needed a partner who could scale with us. Jackson & Frank has been that partner. They've helped us hire in 8 countries now, and each expansion has been smoother than the last. Their transparent pricing and responsive support team make them stand out."
+      }
+    ]
+  },
+  "highlights": {
+    "subtitle": "What clients love",
+    "title": "The themes we hear most often",
+    "description": "Across hundreds of reviews and conversations, the same strengths come up again and again.",
+    "items": [
+      {
+        "title": "Local expertise that scales",
+        "description": "In-country specialists who know the labor laws, tax rules, and cultural norms - not a generic playbook.",
+        "icon": "Globe"
+      },
+      {
+        "title": "Fast, on-the-record answers",
+        "description": "Dedicated account teams that reply in hours, not days, with clear written guidance you can rely on.",
+        "icon": "Zap"
+      },
+      {
+        "title": "Compliance you can sleep on",
+        "description": "Proactive updates on regulatory changes so you're never caught off guard by a new local rule.",
+        "icon": "Shield"
+      },
+      {
+        "title": "A true partner mindset",
+        "description": "We treat your growth as our own - flagging risks early and finding creative ways to unblock you.",
+        "icon": "ThumbsUp"
+      }
+    ]
+  },
+  "faqs": {
+    "title": "Questions about working with us",
+    "subtitle": "",
+    "items": [
+      {
+        "question": "How are these testimonials collected?",
+        "answer": "All testimonials are from real clients who have used Jackson & Frank's services. Quotes are shared with their permission and lightly edited for clarity. Initials are used where clients prefer to remain anonymous."
+      },
+      {
+        "question": "Can I speak directly with a current client as a reference?",
+        "answer": "Yes. For enterprise evaluations, we're happy to arrange a reference call with a current client in a similar industry or region. Reach out to our sales team to request one."
+      },
+      {
+        "question": "Do you have case studies with more detail?",
+        "answer": "Absolutely - visit our Success stories page to read in-depth case studies covering the business challenge, our approach, and the measurable results we delivered."
+      },
+      {
+        "question": "What industries do your clients come from?",
+        "answer": "Our clients span technology, manufacturing, professional services, life sciences, retail, and more. We support both fast-growing startups and established global enterprises."
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "metadata": {
+    "title": "Global Hiring Guide - Workforce Solutions",
+    "description": "Comprehensive guide to global hiring, payroll management, and workforce solutions across 17+ countries.",
+    "keywords": [
+      "global hiring guide",
+      "international hiring",
+      "global workforce",
+      "international payroll",
+      "global employment"
+    ],
+    "openGraph": {
+      "title": "Global Hiring Guide - Workforce Solutions",
+      "description": "Comprehensive guide to global hiring, payroll management, and workforce solutions across 17+ countries.",
+      "url": "/global-hiring-guide",
+      "siteName": "Jackson & Frank",
+      "images": [
+        {
+          "url": "/services/service-page/global-hiring-j&f.webp",
+          "width": 1200,
+          "height": 630,
+          "alt": "Global Hiring Guide - Jackson & Frank"
+        }
+      ],
+      "locale": "en_US",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Global Hiring Guide - Workforce Solutions",
+      "description": "Comprehensive guide to global hiring, payroll management, and workforce solutions across 17+ countries.",
+      "images": [
+        "/services/service-page/global-hiring-j&f.webp"
+      ]
+    },
+    "alternates": {
+      "canonical": "/global-hiring-guide"
+    }
+  },
+  "definition": {
+    "title": "Global hiring guide",
+    "subtitle": "Your trusted partner in global workforce solutions",
+    "description": "Streamline global operations by managing payroll in over 17+ countries under one roof, thereby eliminating the ongoing administrative burdens of local compliance, taxes, benefits, and other complexities.",
+    "image": "/services/service-page/global-hiring-j&f.webp",
+    "imageAlt": "Global Community - Jackson & Frank",
+    "keyFeatures": [
+      "Global compliance",
+      "Local expertise",
+      "Fast setup"
+    ],
+    "primaryButtonText": "Get started today",
+    "secondaryButtonText": "Book a call",
+    "primaryButtonReason": "general",
+    "secondaryButtonReason": "consultation",
+    "trustSignals": {
+      "title": "Trusted by companies worldwide",
+      "subtitle": "Numbers that reflect our commitment to excellence and client success.",
+      "stats": [
+        {
+          "value": "17+",
+          "label": "countries",
+          "description": "Owned Markets"
+        },
+        {
+          "value": "700+",
+          "label": "companies",
+          "description": "trust us"
+        },
+        {
+          "value": "1,400+",
+          "label": "employees",
+          "description": "across multiple countries"
+        },
+        {
+          "value": "2013",
+          "label": "founded",
+          "description": "over a decade of experience"
+        }
+      ]
+    }
+  },
+  "hero": {
+    "title": "Global hiring guide",
+    "subtitle": "Streamline global operations by managing payroll in over 17+ countries under one roof, thereby eliminating the ongoing administrative burdens of local compliance, taxes, benefits, and other complexities.",
+    "cta": {
+      "primary": {
+        "text": "Book a demo",
+        "href": "/contact?reason=general_inquiry"
+      },
+      "secondary": {
+        "text": "Learn more",
+        "href": "/employer-of-record"
+      }
+    }
+  },
+  "stats": [
+    {
+      "value": "17+",
+      "label": "countries in our network"
+    },
+    {
+      "value": "48–72h",
+      "label": "Average Onboarding Time"
+    },
+    {
+      "value": "€110K-200K saved",
+      "label": "per country in set-up costs"
+    },
+    {
+      "value": "1,400+",
+      "label": "Employees Placed"
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Access global talent",
+      "description": "Tap into talent pools from over 17+ countries worldwide",
+      "icon": "Users"
+    },
+    {
+      "title": "Full legal compliance",
+      "description": "We ensure all hiring is compliant with local employment laws",
+      "icon": "Shield"
+    },
+    {
+      "title": "Dedicated support",
+      "description": "Get dedicated HR support for all your global employees",
+      "icon": "Phone"
+    },
+    {
+      "title": "Quick setup",
+      "description": "Start hiring in new countries in as little as 48 hours",
+      "icon": "Zap"
+    }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Company or individual",
+      "description": "You've found a candidate in a country where you don't have a local entity, or you're a freelancer working for global clients without 'employed' status.",
+      "icon": "Building2"
+    },
+    {
+      "step": "02",
+      "title": "Onboarding and admin",
+      "description": "We handle onboarding, contracts, local compliance, and all admin work.",
+      "icon": "FileCheck"
+    },
+    {
+      "step": "03",
+      "title": "Proper employment",
+      "description": "You (or your new team member) are officially employed through Jackson & Frank's EOR service with all the benefits of traditional employment.",
+      "icon": "CheckCircle"
+    },
+    {
+      "step": "04",
+      "title": "Get started",
+      "description": "Start building your global team with confidence and full compliance.",
+      "icon": "Rocket"
+    }
+  ],
+  "countries": [
+    {
+      "name": "The Netherlands",
+      "status": "Available",
+      "address": "Nieuwe Stationsstraat 10 6811 KS Arnhem The Netherlands",
+      "href": "/netherlands"
+    },
+    {
+      "name": "India",
+      "status": "Available",
+      "address": "Jackson and Frank, C-401, Wing-C VIPL IT Park road Gayatri Nagar, Pratap Nagar, Nagpur, Maharashtra 440022",
+      "href": "/india"
+    },
+    {
+      "name": "Poland",
+      "status": "Available",
+      "address": "ul. Dąbrowskiego 77A, 60-529 Poznań, Poland",
+      "href": "/poland"
+    },
+    {
+      "name": "United Kingdom",
+      "status": "Available",
+      "address": "124 City Road, London, EC1V 2NX, United Kingdom",
+      "href": "/united-kingdom"
+    },
+    {
+      "name": "Germany",
+      "status": "Available",
+      "address": "Kurfürstenstraße 15, 10719 Berlin, Germany",
+      "href": "/germany"
+    },
+    {
+      "name": "Italy",
+      "status": "Available",
+      "address": "CNI Business Center Milan Piazza Della Republica 19 Italy",
+      "href": "/italy"
+    },
+    {
+      "name": "Czech Republic",
+      "status": "Available",
+      "address": "Na okraji 335/42 Veleslavín 162 00 Prague Czech Republic",
+      "href": "/czech-republic"
+    },
+    {
+      "name": "France",
+      "status": "Available",
+      "address": "229 Rue de Saint-Honore 75001 Paris France",
+      "href": "/france"
+    },
+    {
+      "name": "Belgium",
+      "status": "Available",
+      "address": "Groot-Bijgaardenstraat 14 1082 Sint-Agatha-Berchem Belgium",
+      "href": "/belgium"
+    },
+    {
+      "name": "Spain",
+      "status": "Available",
+      "address": "Calle Rodio, 9 CP. 41007, Seville Spain",
+      "href": "/spain"
+    },
+    {
+      "name": "UAE",
+      "status": "Available",
+      "address": "Business Centre, Sharjah Publishing City Free Zone, Sharjah, United Arab Emirates",
+      "href": "/uae"
+    },
+    {
+      "name": "Hong Kong",
+      "status": "Available",
+      "address": "Unit 915, 9th Floor, Concordia Plaza, 1 Science Museum Road, Tsim Sha Tsui, Hong Kong",
+      "href": "/hong-kong"
+    },
+    {
+      "name": "China",
+      "status": "Available",
+      "address": "Room 2905, No.1486, West Nanjing Road, Jing'an District, Shanghai,China",
+      "href": "/china"
+    },
+    {
+      "name": "Portugal",
+      "status": "Coming soon",
+      "image": "/countries/eor-spain.webp",
+      "address": "Full country guide and local EOR details: Launching soon. Contact us to plan ahead.",
+      "href": ""
+    },
+    {
+      "name": "Sweden",
+      "status": "Coming soon",
+      "image": "/countries/eor-uk.webp",
+      "address": "Full country guide and local EOR details: Launching soon. Contact us to plan ahead.",
+      "href": ""
+    },
+    {
+      "name": "Hungary",
+      "status": "Coming soon",
+      "image": "/countries/eor-czech.webp",
+      "address": "Full country guide and local EOR details: Launching soon. Contact us to plan ahead.",
+      "href": ""
+    },
+    {
+      "name": "Romania",
+      "status": "Coming soon",
+      "image": "/countries/eor-poland.webp",
+      "address": "Full country guide and local EOR details: Launching soon. Contact us to plan ahead.",
+      "href": ""
+    }
+  ],
+  "faqs": {
+    "title": "Frequently asked questions",
+    "subtitle": "",
+    "items": [
+      {
+        "question": "What is global hiring?",
+        "answer": "Global hiring means employing talent in countries where you may not have a local entity. With an EOR partner like Jackson & Frank, you can hire, pay, and manage employees worldwide while we handle local contracts, payroll, taxes, and compliance."
+      },
+      {
+        "question": "How do I choose which country to hire in?",
+        "answer": "Consider your business goals, talent availability, cost of employment (salary, taxes, benefits), and legal complexity. Our team can help you compare costs and compliance requirements across 17+ countries."
+      },
+      {
+        "question": "What are the main challenges of global hiring?",
+        "answer": "Common challenges include local labor and tax compliance, payroll in multiple currencies, benefits and contracts, and immigration where relevant. An EOR partner handles these so you can focus on growing your team."
+      },
+      {
+        "question": "Can I use your services in any country?",
+        "answer": "We support 17+ countries with local entities or partners. Check our country pages for availability; for countries not listed, contact us and we'll confirm feasibility and timelines."
+      },
+      {
+        "question": "How long does it take to hire someone in a new country?",
+        "answer": "In most countries we can onboard employees within 48–72 hours once documentation is in place. Complex markets may take a few days longer; we'll give you a clear timeline for your target country."
+      },
+      {
+        "question": "What costs should I expect when hiring globally?",
+        "answer": "Costs include salary, employer taxes and social security, benefits, and our service fee. Use our cost calculator for estimates, or contact us for a detailed quote. EOR typically saves €110K–200K per country vs. setting up your own entity."
+      },
+      {
+        "question": "Do you help with immigration and work visas?",
+        "answer": "Yes. We offer full immigration support including work visas, permits, and dependent visas. Our team handles applications, renewals, and compliance so your employees can work legally in their destination country."
+      },
+      {
+        "question": "What if I need to scale or change headcount?",
+        "answer": "You can scale up or down easily. Add or remove employees through our platform; we handle contracts, payroll, and offboarding in line with local laws. No long-term entity lock-in."
+      }
+    ]
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "metadata": {
+    "title": "Global Payroll Services with Local Expertise",
+    "description": "Comprehensive global payroll solutions for 17+ countries. Accurate, compliant, and timely payroll processing with local expertise and advanced technology.",
+    "keywords": [
+      "Global payroll",
+      "Payroll services",
+      "International payroll",
+      "Payroll processing",
+      "Multi-country payroll",
+      "Payroll compliance",
+      "Payroll outsourcing",
+      "Global payroll management",
+      "Payroll solutions",
+      "International payroll services",
+      "Payroll technology",
+      "Payroll reporting",
+      "Payroll automation",
+      "gp payroll",
+      "13th month pay",
+      "compute 13th month pay",
+      "payslip",
+      "uk payslip",
+      "french payroll",
+      "german payroll",
+      "spain payroll"
+    ],
+    "openGraph": {
+      "title": "Global Payroll Services with Local Expertise",
+      "description": "Comprehensive global payroll solutions for 17+ countries. Accurate, compliant, and timely payroll processing with local expertise and advanced technology.",
+      "url": "/payroll",
+      "siteName": "Jackson & Frank",
+      "images": [
+        {
+          "url": "/services/service-page/payroll.webp",
+          "width": 1200,
+          "height": 630,
+          "alt": "Global Payroll Services with Local Expertise - Jackson & Frank"
+        }
+      ],
+      "locale": "en_US",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Global Payroll Services with Local Expertise",
+      "description": "Comprehensive global payroll solutions for 17+ countries. Accurate, compliant, and timely payroll processing with local expertise and advanced technology.",
+      "images": [
+        "/services/service-page/payroll.webp"
+      ]
+    },
+    "alternates": {
+      "canonical": "/payroll"
+    }
+  },
+  "definition": {
+    "title": "Global payroll made simple",
+    "subtitle": "Understanding global payroll solutions",
+    "description": "For companies with legal entities in Europe and Asia. You submit payroll data. A Jackson & Frank specialist in your market handles calculations, tax filings, statutory contributions, and payments - every cycle, every country.",
+    "image": "/services/service-page/payroll.webp",
+    "imageAlt": "Global payroll and payment services",
+    "primaryButtonText": "Get a payroll quote",
+    "secondaryButtonText": "Talk to a specialist",
+    "primaryButtonReason": "payroll",
+    "secondaryButtonReason": "consultation",
+    "trustSignals": {
+      "title": "Trusted by companies worldwide",
+      "subtitle": "Numbers that reflect our commitment to excellence and client success.",
+      "stats": [
+        {
+          "value": "17+",
+          "label": "",
+          "description": "Countries covered"
+        },
+        {
+          "value": "99.9%",
+          "label": "",
+          "description": "Accuracy rate"
+        },
+        {
+          "value": "24h",
+          "label": "",
+          "description": "Processing time"
+        },
+        {
+          "value": "90+",
+          "label": "",
+          "description": "Currencies"
+        }
+      ]
+    },
+    "keyPoints": [
+      {
+        "title": "Multi-country processing",
+        "description": "Unified payroll processing across 17+ countries with local currency support and compliance. Process all your global payrolls from a single platform.",
+        "icon": "Globe"
+      },
+      {
+        "title": "Tax compliance",
+        "description": "Automatic tax calculations, withholdings, and filings according to local tax regulations in each country. Stay compliant with all tax requirements.",
+        "icon": "Receipt"
+      },
+      {
+        "title": "Accurate calculations",
+        "description": "Precise salary calculations including overtime, bonuses, deductions, and statutory benefits. Ensure every employee is paid correctly.",
+        "icon": "Calculator"
+      },
+      {
+        "title": "Timely payments",
+        "description": "On-time salary payments in local currencies with proper banking and payment processing. Never miss a payroll deadline.",
+        "icon": "Clock"
+      }
+    ],
+    "benefits": [
+      "17+ countries supported",
+      "Real-time payroll visibility",
+      "Full tax compliance",
+      "Multi-currency processing",
+      "Automated calculations"
+    ]
+  },
+  "mainDescription": {
+    "title": "What is Payroll Services?",
+    "description": "Payroll services involve the comprehensive management of employee compensation, including salary calculations, tax withholdings, benefits administration, and compliance with local labor and tax regulations. Our global payroll solutions ensure accurate, timely, and compliant payroll processing across 17+ countries, handling everything from data collection to final payment disbursement."
+  },
+  "deskDisappears": {
+    "title": "Everything between \"data submitted\" and \"salaries paid\"",
+    "subtitle": "Your team submits payroll data in whatever format you already use. A Jackson & Frank specialist handles everything that follows.",
+    "subtitale2": "Your team submits payroll data. A Jackson & Frank specialist in your country handles every step after that.",
+    "items": [
+      {
+        "title": "Gross-to-net calculations",
+        "description": "Salary, overtime, bonuses, deductions, and any country-specific adjustments"
+      },
+      {
+        "title": "Tax withholdings and social contribution filings",
+        "description": "Calculated and filed with local authorities, each country, each cycle"
+      },
+      {
+        "title": "Statutory benefits administration",
+        "description": "Pension contributions, sick pay, holiday pay, maternity and paternity entitlements"
+      },
+      {
+        "title": "Multi-currency payments",
+        "description": "Direct to employees, in local currency, on time"
+      },
+      {
+        "title": "Payslips in the local language",
+        "description": "Compliant with each country's requirements"
+      },
+      {
+        "title": "Year-end reporting and tax certificates",
+        "description": "Handled without your team needing to chase local deadlines"
+      },
+      {
+        "title": "Regulatory monitoring",
+        "description": "When local employment law updates, your specialist already knows and your payroll reflects it"
+      }
+    ]
+  },
+  "whyJf": {
+    "title": "Why companies choose Jackson & Frank for international payroll",
+    "pillars": [
+      {
+        "id": 1,
+        "title": "Specialists in your markets - not a rules engine",
+        "description": "Jackson & Frank holds legal entities and employs in-country payroll specialists across 17+ markets. Your payroll in Germany is handled by someone who processes German payroll every month - a person who knows when the BVG contribution rates change, when a collective agreement updates, and what the local tax authority expects.",
+        "callout": "Platforms automate what they've been programmed to know. Specialists catch what platforms miss.",
+        "markets": [
+          "Belgium",
+          "China",
+          "Czech Republic",
+          "France",
+          "Germany",
+          "Hong Kong",
+          "India",
+          "Italy",
+          "Netherlands",
+          "Poland",
+          "Spain",
+          "UAE",
+          "UK"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "No new system for your team to learn",
+        "description": "SaaS payroll platforms create work before they remove any. New portal. New login credentials. Integration with your HRIS. Your HR team learning new workflows. That onboarding effort is real - and it comes before you've processed a single payroll run.",
+        "description2": "With Jackson & Frank, your team keeps working the way they already do. Submit payroll data in the format that works for you - a spreadsheet, an HRIS export, whatever your current process produces. We take it from there.",
+        "description3": "In the background, we run payroll on leading local systems in each market - platforms built specifically for that country's statutory requirements. Your team never has to touch them.",
+        "callout": "This is consistently one of the main reasons companies move to Jackson & Frank from Multiplier or Deel: not dissatisfaction with the product, but with the overhead of being a product user."
+      },
+      {
+        "id": 3,
+        "title": "Pricing that reflects your actual situation",
+        "description": "A flat per-employee SaaS rate sounds simple. In practice, it penalises straightforward payrolls and underprices complex ones. Payroll cost is genuinely different for five employees in the Netherlands versus twenty across Germany, France, and Spain.",
+        "description2": "We quote based on your specific markets, employee count, and payroll complexity. The quote comes within 24 hours. No commitment required."
+      }
+    ]
+  },
+  "ourMarkets": {
+    "title": "Our payroll specialists operate where you do",
+    "subtitle": "Real entities. In-country specialists. Not a local partner network - we hold our own entities and employ our own people in each market.",
+    "footerText": "Can't see a market you need? Our reach extends beyond our 17+ core markets - ",
+    "footerLinkText": "contact us.",
+    "footerLink": "/contact",
+    "markets": [
+      {
+        "name": "Belgium",
+        "details": "Owned entity · In-country specialist",
+        "link": "/belgium",
+        "linkText": "Payroll in Belgium →",
+        "image": "/countries/eor-belgium.webp"
+      },
+      {
+        "name": "China",
+        "details": "Owned entity · In-country specialist",
+        "link": "/china",
+        "linkText": "Payroll in China →",
+        "image": "/countries/eor-china.webp"
+      },
+      {
+        "name": "Czech Republic",
+        "details": "Owned entity · In-country specialist",
+        "link": "/czech-republic",
+        "linkText": "Payroll in Czech Republic →",
+        "image": "/countries/eor-czech.webp"
+      },
+      {
+        "name": "France",
+        "details": "Owned entity · In-country specialist",
+        "link": "/france",
+        "linkText": "Payroll in France →",
+        "image": "/countries/eor-france.webp"
+      },
+      {
+        "name": "Germany",
+        "details": "Owned entity · In-country specialist",
+        "link": "/blog/germany-public-holidays-2026",
+        "linkText": "Payroll in Germany →",
+        "image": "/countries/eor-germany.webp"
+      },
+      {
+        "name": "Hong Kong",
+        "details": "Owned entity · In-country specialist",
+        "link": "/hong-kong",
+        "linkText": "Payroll in Hong Kong →",
+        "image": "/countries/eor-hong-kong.webp"
+      },
+      {
+        "name": "India",
+        "details": "Owned entity · In-country specialist",
+        "link": "/india",
+        "linkText": "Payroll in India →",
+        "image": "/countries/eor-india.webp"
+      },
+      {
+        "name": "Italy",
+        "details": "Owned entity · In-country specialist",
+        "link": "/blog/italy-bank-holidays-2026",
+        "linkText": "Payroll in Italy →",
+        "image": "/countries/eor-Italy.webp"
+      },
+      {
+        "name": "Netherlands",
+        "details": "Owned entity · In-country specialist",
+        "link": "/blog/netherlands-public-holidays-2026",
+        "linkText": "Payroll in the Netherlands →",
+        "image": "/countries/eor-netherlands.webp"
+      },
+      {
+        "name": "Poland",
+        "details": "Owned entity · In-country specialist",
+        "link": "/poland",
+        "linkText": "Payroll in Poland →",
+        "image": "/countries/eor-poland.webp"
+      },
+      {
+        "name": "Spain",
+        "details": "Owned entity · In-country specialist",
+        "link": "/blog/spain-public-holidays-2026",
+        "linkText": "Payroll in Spain →",
+        "image": "/countries/eor-spain.webp"
+      },
+      {
+        "name": "UAE",
+        "details": "Owned entity · In-country specialist",
+        "link": "/uae",
+        "linkText": "Payroll in the UAE →",
+        "image": "/countries/eor-uae.webp"
+      },
+      {
+        "name": "UK",
+        "details": "Owned entity · In-country specialist",
+        "link": "/blog/uk-bank-holidays-2026",
+        "linkText": "Payroll in the UK →",
+        "image": "/countries/eor-uk.webp"
+      }
+    ]
+  },
+  "services": {
+    "title": "Payroll services we offer",
+    "subtitle": "",
+    "description": "We provide end-to-end payroll services covering all aspects of global payroll management and compliance. From processing to reporting, we handle everything.",
+    "items": [
+      {
+        "title": "Payroll Processing",
+        "description": "Comprehensive payroll processing including accurate salary calculations, overtime, bonuses, and deductions management.",
+        "icon": "Calculator",
+        "features": [
+          "Salary calculations",
+          "Overtime processing",
+          "Bonus calculations",
+          "Deduction management"
+        ]
+      },
+      {
+        "title": "Tax Management",
+        "description": "Complete tax management services including calculations, withholdings, filings, and year-end reporting.",
+        "icon": "Receipt",
+        "features": [
+          "Tax calculations",
+          "Withholding management",
+          "Tax filings",
+          "Year-end reporting"
+        ]
+      },
+      {
+        "title": "Benefits Administration",
+        "description": "Full benefits administration covering health insurance, pensions, statutory benefits, and voluntary benefits.",
+        "icon": "Heart",
+        "features": [
+          "Health insurance",
+          "Pension contributions",
+          "Statutory benefits",
+          "Voluntary benefits"
+        ]
+      },
+      {
+        "title": "Reporting & Analytics",
+        "description": "Advanced reporting and analytics with payroll reports, cost analytics, compliance reports, and custom reporting.",
+        "icon": "BarChart",
+        "features": [
+          "Payroll reports",
+          "Cost analytics",
+          "Compliance reports",
+          "Custom reporting"
+        ]
+      }
+    ]
+  },
+  "process": {
+    "title": "Three steps. No surprises.",
+    "subtitle": "",
+    "description": "",
+    "buttonText": "Get a payroll quote",
+    "buttonLink": "/contact",
+    "steps": [
+      {
+        "number": 1,
+        "title": "We scope your setup",
+        "description": "Tell us your markets, employee count, and how you currently submit payroll data. We'll come back with a detailed quote within 24 hours - no commitment required, no sales process to navigate first."
+      },
+      {
+        "number": 2,
+        "title": "We onboard your payroll",
+        "description": "Your Jackson & Frank specialist sets up the payroll cycle for each country. We confirm your submission format, handle any local registrations if needed, and agree your first live payroll date. Most clients are up and running within 2–4 weeks."
+      },
+      {
+        "number": 3,
+        "title": "We run it - every cycle",
+        "description": "You submit payroll data the same way, every month. We calculate, file with local authorities, and process payments to employees. You receive a clear cycle summary and payslips ready to distribute."
+      }
+    ]
+  },
+  "eorComparison": {
+    "title": "Is payroll the right service for you?",
+    "subtitle": "Understanding the differences to choose the right solution",
+    "description": "Payroll services and EOR are both for international employment - but they're for different situations. Two minutes here saves both of us time.",
+    "options": [
+      {
+        "type": "Payroll is right if",
+        "icon": "Calculator",
+        "description": "Payroll processing only. You remain the legal employer with full compliance responsibility.",
+        "features": [
+          "You already have a legal entity in the country",
+          "You want to remain the employer on record",
+          "You need someone to handle payroll calculations, tax filings, and statutory payments",
+          "You're running payroll across multiple countries and the complexity is building"
+        ],
+        "bestFor": "Companies with local entities and compliance expertise"
+      },
+      {
+        "type": "You might need EOR instead if",
+        "icon": "Building2",
+        "description": "We become the legal employer. Perfect when you don't have a local entity.",
+        "features": [
+          "You don't have a local entity yet",
+          "You want to hire compliantly in a new market without registering a company first",
+          "You need to get someone started quickly without setting up a legal structure"
+        ],
+        "bestFor": "Companies without local entities, market testing, rapid expansion"
+      }
+    ]
+  },
+  "technology": {
+    "title": "Payroll technology & reporting",
+    "subtitle": "Advanced payroll platform",
+    "description": "Our advanced payroll technology platform provides real-time visibility, automated processing, and comprehensive reporting. Access your payroll data anytime, anywhere.",
+    "features": [
+      {
+        "title": "Real-time dashboard",
+        "description": "Monitor payroll status, costs, and compliance in real-time. Get instant insights into your global payroll operations.",
+        "icon": "Monitor"
+      },
+      {
+        "title": "Automated processing",
+        "description": "Fully automated payroll calculations and processing. Reduce manual errors and save time with intelligent automation.",
+        "icon": "Zap"
+      },
+      {
+        "title": "Comprehensive reporting",
+        "description": "Generate detailed payroll reports, analytics, and insights. Export data in multiple formats for your accounting systems.",
+        "icon": "FileBarChart"
+      },
+      {
+        "title": "Multi-currency support",
+        "description": "Process payroll in multiple currencies with real-time exchange rates. Handle currency conversions seamlessly.",
+        "icon": "DollarSign"
+      }
+    ],
+    "benefits": [
+      "Cloud-based platform",
+      "Mobile app access",
+      "API integrations",
+      "Data security",
+      "24/7 support"
+    ]
+  },
+  "faqs": {
+    "title": "Frequently asked questions",
+    "subtitle": "",
+    "items": [
+      {
+        "question": "What's the difference between payroll services and Employer of Record - which do I need?",
+        "answer": "Payroll services are for companies that already have a legal entity in the country and want to remain the employer on record. EOR is for companies that want to hire in a new market without setting up a local entity first. If you have an entity, payroll. If you don't, EOR. If you're not sure which applies, <a href=\"/contact\" class=\"faq-link\">talk to a specialist &rarr;</a> - it's a five-minute conversation."
+      },
+      {
+        "question": "Do I need a legal entity in each country to use your payroll service?",
+        "answer": "Yes. Payroll services assume you're already the legal employer in that country - registered, with the entity in place. If you don't have an entity yet and want to hire compliantly without registering one, <a href=\"/employer-of-record\" class=\"faq-link\">EOR is the right starting point &rarr;</a>."
+      },
+      {
+        "question": "Which countries do you cover?",
+        "answer": "We have owned entities and in-country specialists across 17+ markets: Belgium, China, Czech Republic, France, Germany, Hong Kong, India, Italy, Netherlands, Poland, Spain, UAE, and UK. For markets outside this list, contact us - our reach extends beyond our core 13."
+      },
+      {
+        "question": "How do I submit payroll data - do I need to use a specific system?",
+        "answer": "No. You submit data in whatever format you already use - a spreadsheet, an HRIS export, a payroll input template. We don't require you to adopt a new platform, learn a new portal, or change your existing workflow. That's specifically one of the reasons companies choose Jackson & Frank over SaaS payroll platforms."
+      },
+      {
+        "question": "What payroll systems do you use?",
+        "answer": "We run payroll on leading local payroll platforms in each market - systems built specifically for that country's statutory requirements. In the Netherlands, for example, we use Nmbrs, which is widely used by Dutch employers and integrates with local tax authority reporting. Our wider financial infrastructure runs on NetSuite. Your team doesn't interact with any of these systems directly."
+      },
+      {
+        "question": "How is payroll pricing structured?",
+        "answer": "We don't use a flat per-employee rate. Payroll cost depends on your markets, employee count, and the complexity of each country's requirements - French payroll carries different overhead than Netherlands payroll, for example. We'll quote based on your specific situation, and the quote comes within 24 hours of your request."
+      },
+      {
+        "question": "What happens when local tax laws or employment rules change?",
+        "answer": "Regulatory monitoring is part of the service. Your Jackson & Frank specialist tracks legislative changes in their market - contribution rate updates, new statutory entitlements, reporting requirement changes - and updates your payroll accordingly. If a change requires input from you (a new benefit category, an employment contract update), we'll flag it proactively."
+      },
+      {
+        "question": "Can you manage payroll across multiple countries at once?",
+        "answer": "Yes. Multi-country payroll is the core use case. You submit data; we manage the local complexity in each country and report back in a consistent summary format. Clients running payroll in 3–10 countries simultaneously is typical."
+      },
+      {
+        "question": "How long does payroll onboarding take?",
+        "answer": "For most clients, we're running the first live payroll cycle within 2–4 weeks of engagement. The timeline depends on the number of countries, the complexity of your current setup, and whether any local registrations need to be completed. We'll confirm a realistic timeline as part of your quote."
+      }
+    ]
+  },
+  "socialProof": {
+    "eyebrow": "Global reach",
+    "title": "Trusted by international businesses",
+    "testimonials": [
+      {
+        "title": "A trusted partner for international hiring",
+        "quote": "We really value our relationship with the team at Jackson & Frank. They're a great group of professionals to work with, knowledgeable, pragmatic, and always clear in how they approach complex cross-border matters. What we appreciate most is how practical they are. Their expertise in legal and workforce structuring, combined with a strong international perspective, makes them a trusted partner when navigating different jurisdictions.",
+        "author": "Robin Zijsling",
+        "role": "Founder, LM5 Capital",
+        "image": "/testimonials/robin-zijsling.webp"
+      },
+      {
+        "title": "Efficient and workable HR solutions",
+        "quote": "During my co-operation with Jackson and Frank B.V., I have noticed that the management does not only do their HR jobs wonderfully, but has had a larger view of the global need of movement of talent and knowledge migrants. This mission ensures the excellence of their daily work and performance - and, in addition, substantially providing our clients with efficient and workable HR solutions. Their compliance has also given our clients great confidence to work with them.",
+        "author": "Xin Shi LLM",
+        "role": "Head of China Desk, Amice Advocaten",
+        "image": "/testimonials/xin.webp"
+      },
+      {
+        "title": "Practical, client-driven approach",
+        "quote": "Jackson & Frank combines a strong focus on quality with a practical, client-driven approach, helping businesses navigate the complexities of international business.",
+        "author": "Paul Halprin",
+        "role": "Founder, Halprin Law",
+        "image": "/testimonials/paul-halprin.webp"
+      }
+    ]
+  },
+  "countryGuides": {
+    "title": "Payroll in your markets",
+    "intro": "Country-specific guides on payroll rules, tax obligations, and statutory requirements - written by our in-market specialists.",
+    "browseText": "Browse all country guides",
+    "browseLink": "/blog",
+    "articles": [
+      {
+        "title": "Payroll in Spain",
+        "description": "Social contributions, PIT withholdings, and what changes when you cross the 50-employee threshold.",
+        "link": "/blog/spain-public-holidays-2026"
+      },
+      {
+        "title": "Payroll in the Netherlands",
+        "description": "Wage tax tables, the 30% ruling, and how Nmbrs is used by Dutch employers.",
+        "link": "/blog/netherlands-public-holidays-2026"
+      },
+      {
+        "title": "Payroll in the UK",
+        "description": "PAYE, National Insurance, auto-enrolment, and what changed post-Brexit for non-UK payrolls.",
+        "link": "/blog/uk-bank-holidays-2026"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to streamline your global payroll?",
+    "description": "Join hundreds of companies who trust us for their global payroll needs. Get started with accurate, compliant payroll processing.",
+    "primaryButtonText": "Get started with payroll",
+    "primaryButtonReason": "payroll",
+    "features": [
+      "Accurate processing",
+      "Full compliance",
+      "Real-time visibility",
+      "17+ countries"
+    ]
+  }
+}

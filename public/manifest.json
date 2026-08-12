@@ -1,0 +1,26 @@
+{
+  "name": "Jackson & Frank - Global HR Solutions",
+  "short_name": "Jackson & Frank",
+  "description": "Global HR, EOR, and payroll services to simplify international hiring, compliance, and talent acquisition.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#143369",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/logo-light.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "en",
+  "dir": "ltr"
+}

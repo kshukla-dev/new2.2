@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "title": "Our Advantages - Global HR Solutions",
+    "description": "Discover Jackson & Frank's competitive advantages: 50+ years of HR experience, one-stop solutions, expert team support, compliance excellence, and local agile support across 17+ countries.",
+    "keywords": [
+      "HR advantages",
+      "global HR solutions",
+      "HR expertise",
+      "compliance services",
+      "international HR",
+      "workforce solutions",
+      "HR consulting advantages",
+      "global employment services",
+      "HR technology",
+      "local HR support"
+    ],
+    "openGraph": {
+      "title": "Our Advantages - Global HR Solutions",
+      "description": "Discover Jackson & Frank's competitive advantages: 50+ years of HR experience, one-stop solutions, expert team support, compliance excellence, and local agile support across 17+ countries.",
+      "url": "/advantages",
+      "siteName": "Jackson & Frank",
+      "images": [
+        {
+          "url": "/services/service-page/advantags.webp",
+          "width": 1200,
+          "height": 630,
+          "alt": "Jackson & Frank Advantages - Global HR Solutions"
+        }
+      ],
+      "locale": "en_US",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Our Advantages - Global HR Solutions",
+      "description": "Discover Jackson & Frank's competitive advantages: 50+ years of HR experience, one-stop solutions, expert team support, compliance excellence, and local agile support.",
+      "images": [
+        "/services/service-page/advantags.webp"
+      ]
+    },
+    "alternates": {
+      "canonical": "/advantages"
+    }
+  },
+  "definition": {
+    "title": "Our advantages",
+    "subtitle": "Why choose Jackson & Frank",
+    "description": "Discover what sets Jackson & Frank apart in global workforce solutions. With decades of experience, comprehensive services, and unwavering commitment to excellence, we deliver unmatched value to businesses worldwide.",
+    "image": "/services/service-page/advantags.webp",
+    "imageAlt": "Professional team collaboration at Jackson & Frank",
+    "keyFeatures": [
+      "50+ years of combined HR expertise",
+      "17+ countries coverage",
+      "Full compliance & security",
+      "24/7 local support"
+    ],
+    "primaryButtonText": "Get started today",
+    "secondaryButtonText": "Book a call",
+    "primaryButtonReason": "general",
+    "secondaryButtonReason": "consultation",
+    "trustSignals": {
+      "title": "Trusted by companies worldwide",
+      "subtitle": "Numbers that reflect our commitment to excellence and client success.",
+      "stats": [
+        {
+          "value": "17+",
+          "label": "countries",
+          "description": "Owned Markets"
+        },
+        {
+          "value": "700+",
+          "label": "companies",
+          "description": "trust us"
+        },
+        {
+          "value": "1,400+",
+          "label": "employees",
+          "description": "across multiple countries"
+        },
+        {
+          "value": "2013",
+          "label": "established",
+          "description": "over a decade of experience"
+        }
+      ]
+    }
+  },
+  "advantages": {
+    "title": "Our advantages",
+    "subtitle": "",
+    "description": "Discover what sets Jackson & Frank apart in global workforce solutions. With decades of experience, comprehensive services, and unwavering commitment to excellence, we deliver unmatched value to businesses worldwide.",
+    "items": [
+      {
+        "title": "Extensive industry experience",
+        "points": [
+          "50+ years in HR with offices in 17+ countries.",
+          "Partnerships across 17+ countries.",
+          "Specialized in European labor laws with 19+ years of tax and compliance expertise."
+        ]
+      },
+      {
+        "title": "One-stop HR solutions",
+        "points": [
+          "End-to-end services: immigration, onboarding, payroll, offboarding.",
+          "Tailored strategies for unique business needs.",
+          "Relocation support: housing, schools, language services."
+        ]
+      },
+      {
+        "title": "Expert multidisciplinary team support",
+        "points": [
+          "Skilled tax, compliance, audit, and accounting professionals.",
+          "High-touch services delivered by real experts no reliance on SaaS only tools."
+        ]
+      },
+      {
+        "title": "Commitment to compliance and security",
+        "points": [
+          "Fully licensed and GDPR-compliant across locations.",
+          "Employee leasing authorization (e.g., NEN, AÜG).",
+          "Strong data security backed by 19+ years of regulatory expertise."
+        ]
+      },
+      {
+        "title": "Local support & agile solutions",
+        "points": [
+          "Fast, responsive communication.",
+          "24/7 dedicated team with local expert support.",
+          "Customized solutions based on the clients' business cases."
+        ]
+      }
+    ]
+  },
+  "certifications": {
+    "title": "Certifications",
+    "items": [
+      {
+        "title": "AÜG-license",
+        "icon": "/license/Rewards-1.webp",
+        "iconAlt": "AÜG License - German Federal Employment Agency",
+        "points": [
+          "Compliance with German labor leasing laws, minimizing risks of fines or legal challenges.",
+          "Legally hire temporary staff or outsourced employees without establishing a local entity.",
+          "Quicker onboarding for temporary workforce"
+        ]
+      },
+      {
+        "title": "NeN 4400-1 Certified",
+        "icon": "/license/licence-1.webp",
+        "iconAlt": "NeN 4400-1 Certification",
+        "points": [
+          "Ensures compliance with payroll tax and employee administration requirements",
+          "Builds trust with clients and partners by verifying adherence to high industry standards.",
+          "Prevents issues like wage theft and unverified contracts, ensuring transparent operations."
+        ]
+      },
+      {
+        "title": "GDPR Compliance",
+        "icon": "/license/Rewards-3.webp",
+        "iconAlt": "GDPR Compliance - European Union",
+        "points": [
+          "Protects personal and sensitive data, preventing breaches and ensuring privacy.",
+          "Meets European data privacy laws, avoiding penalties and fines.",
+          "Builds client and employee trust by prioritizing secure and ethical data handling"
+        ]
+      }
+    ]
+  },
+  "faqs": {
+    "title": "Frequently asked questions",
+    "subtitle": "Common questions about our advantages and capabilities",
+    "items": [
+      {
+        "question": "What experience does Jackson & Frank have in global HR?",
+        "answer": "We have 50+ years of combined HR expertise, with offices in 17+ countries and partnerships across 17+ countries. We specialize in European labor laws and have 19+ years of tax and compliance experience."
+      },
+      {
+        "question": "Do you offer end-to-end HR solutions?",
+        "answer": "Yes. We provide immigration, onboarding, payroll, offboarding, and relocation support including housing, schools, and language services so you have one partner for your global workforce needs."
+      },
+      {
+        "question": "How do you ensure compliance and security?",
+        "answer": "We are fully licensed and GDPR-compliant where we operate, hold employee leasing authorizations (e.g. NEN, AÜG), and maintain strong data security backed by 19+ years of regulatory expertise."
+      },
+      {
+        "question": "What kind of support can I expect?",
+        "answer": "We offer 24/7 dedicated team support with local experts, fast and responsive communication, and solutions tailored to your business case no SaaS only approach; you work with real experts."
+      },
+      {
+        "question": "Do you offer relocation and settling-in support?",
+        "answer": "Yes. We help with housing, schools, language services, and settling-in so employees and their families can transition smoothly. This is part of our end-to-end mobility and onboarding support."
+      },
+      {
+        "question": "How do you compare on pricing?",
+        "answer": "Our pricing is transparent and competitive. We provide custom quotes based on countries, headcount, and services. Using us typically saves €110K–200K per country versus setting up your own entity."
+      },
+      {
+        "question": "Can you integrate with our existing HR or payroll systems?",
+        "answer": "Yes. We offer integrations and APIs where needed. Our team can work with your existing HRIS, accounting, and time-tracking tools to keep data in sync and workflows smooth."
+      },
+      {
+        "question": "What if we need to scale quickly?",
+        "answer": "We're built for scale. You can add employees and countries without entity setup delays. Our 48–72 hour onboarding in most markets lets you respond quickly to business needs."
+      }
+    ]
+  }
+}

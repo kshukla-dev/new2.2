@@ -1,0 +1,46 @@
+{
+  "title": "Why choose Jackson & Frank?",
+  "description": "We provide a complete and safe path to global expansion. Work in any country without setting up a local office, with full compliance for employment, payroll, tax, and immigration.",
+  "ctaButton": {
+    "label": "Contact us",
+    "href": "/contact?reason=general_inquiry"
+  },
+  "items": [
+    {
+      "id": "compliance-legal-challenges",
+      "problem": "Complex compliance and legal requirements",
+      "problemDescription": "Different labor laws, taxes, and immigration rules in each country can lead to costly penalties.",
+      "solution": "What we provide",
+      "solutionDescription": "Employer of Record, payroll, and Contractor of Record services, built on compliance in every market we operate",
+      "image": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=600&h=400&fit=crop",
+      "imageAlt": "Legal compliance and documentation"
+    },
+    {
+      "id": "one-size-fits-all-approach",
+      "problem": "Generic solutions don't fit your needs",
+      "problemDescription": "Cookie-cutter solutions lead to poor decisions about entity structures and compliance strategies.",
+      "solution": "Employer of Record",
+      "solutionDescription": "Hire employees abroad through our own legal entities, work permits and visa sponsorship included.",
+      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=600&h=400&fit=crop",
+      "imageAlt": "Custom business strategy and consulting"
+    },
+    {
+      "id": "administrative-burden",
+      "problem": "Overwhelming paperwork burden",
+      "problemDescription": "Endless paperwork, contracts, payroll, and immigration processes distract from your core business.",
+      "solution": "Payroll",
+      "solutionDescription": "Accurate payroll and tax filings, run by local specialists on the systems already used in each market.",
+      "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+      "imageAlt": "Streamlined administrative processes"
+    },
+    {
+      "id": "slow-setup-process",
+      "problem": "Slow setup process delays expansion",
+      "problemDescription": "Setting up in new countries takes weeks or months, causing missed opportunities.",
+      "solution": "Contractor of Record",
+      "solutionDescription": "Engage contractors the right way, correctly classified under local rules, and paid within 48 hours.",
+      "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=600&h=400&fit=crop",
+      "imageAlt": "Fast business setup and growth"
+    }
+  ]
+}

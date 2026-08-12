@@ -1,0 +1,486 @@
+{
+  "metadata": {
+    "title": "Employer of Record (EOR) | Global Hiring Without an Entity",
+    "description": "Employer of Record services for global hiring: hire without entity setup, run international payroll, and stay on top of employment compliance in 17+ countries.",
+    "keywords": [
+      "Employer of Record",
+      "EOR services",
+      "global hiring",
+      "hire without entity",
+      "international payroll",
+      "employment compliance",
+      "global EOR",
+      "international employment",
+      "global workforce management",
+      "EOR provider",
+      "international hiring solutions",
+      "global employment services",
+      "overseas hiring",
+      "employer of record france",
+      "global employer of record",
+      "eor solutions",
+      "what is an eor",
+      "global expansion",
+      "international expansion"
+    ],
+    "openGraph": {
+      "title": "Employer of Record (EOR) | Global Hiring Without an Entity",
+      "description": "Hire through an Employer of Record: international payroll, local contracts, and employment compliance without opening a local company.",
+      "url": "/employer-of-record",
+      "siteName": "Jackson & Frank",
+      "images": [
+        {
+          "url": "/services/service-page/eor.webp",
+          "width": 1200,
+          "height": 630,
+          "alt": "Employer of Record Services - Jackson & Frank"
+        }
+      ],
+      "locale": "en_US",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Employer of Record (EOR) | Global Hiring Without an Entity",
+      "description": "Hire through an Employer of Record: international payroll, local contracts, and employment compliance without opening a local company.",
+      "images": [
+        "/services/service-page/eor.webp"
+      ]
+    },
+    "alternates": {
+      "canonical": "/employer-of-record"
+    }
+  },
+  "definition": {
+    "title": "Hire employees globally without entities",
+    "subtitle": "Hero",
+    "description": "Quickly expand your global workforce across 17+ countries without establishing a local entity. We become your local HR partner.",
+    "image": "/services/service-page/eor.webp",
+    "imageAlt": "Employer of Record - global hiring and compliance",
+    "keyFeatures": [
+      "Hire in days. No local subsidiary required.",
+      "International payroll, taxes, and benefits handled for you",
+      "Employment compliance monitored in each country"
+    ],
+    "primaryButtonText": "Hire globally without entity setup",
+    "secondaryButtonText": "Talk to an EOR expert",
+    "primaryButtonReason": "eor_services",
+    "secondaryButtonReason": "consultation",
+    "trustSignals": {
+      "title": "Trusted by companies worldwide",
+      "subtitle": "Numbers that reflect our commitment to excellence and client success.",
+      "stats": [
+        {
+          "value": "17+",
+          "label": "countries",
+          "description": "Owned Markets"
+        },
+        {
+          "value": "15+",
+          "label": "local offices",
+          "description": "in countries we operate"
+        },
+        {
+          "value": "€110K-200K ",
+          "label": "",
+          "description": "saved per country in set-up costs"
+        },
+        {
+          "value": "700+",
+          "label": "companies",
+          "description": "trust us"
+        }
+      ]
+    },
+    "keyPoints": [
+      {
+        "title": "Legal employment",
+        "description": "The EOR is the legal employer for payroll, contracts, and statutory obligations in-country."
+      },
+      {
+        "title": "Operational control",
+        "description": "You manage work and performance; we handle HR admin and compliance execution."
+      },
+      {
+        "title": "No entity required",
+        "description": "Hire without a subsidiary ideal when you need speed and lower fixed cost per market."
+      },
+      {
+        "title": "Compliance coverage",
+        "description": "Local labour rules, contributions, and filings are applied consistently across your hires."
+      }
+    ],
+    "benefits": [
+      "Start hiring in 48–72 hours",
+      "No entity setup",
+      "Compliant local contracts",
+      "Multi-country support"
+    ]
+  },
+  "mainDescription": {
+    "title": "What is an Employer of Record?",
+    "paragraphs": [
+      "An employer of record is a third-party provider that is legally responsible for another organization’s employees. It can be located within the same country as the business it employs workers for or in another country with different employment laws.",
+      "The EOR handles employment administration, such as payroll and regulatory compliance, while the client business maintains managerial control of its employees and their work assignments. This arrangement allows employers to expand their operations without being overburdened by the administrative and risk management tasks that may arise when entering a new geographic region."
+    ]
+  },
+  "howItWorks": {
+    "title": "How our Employer of Record works",
+    "subtitle": "",
+    "description": "Three focused steps from agreement to payroll: you define the roles, we employ and run international payroll compliantly.",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Agree scope",
+        "description": "We align on countries, roles, and commercials so Employer of Record coverage matches your global hiring plan.",
+        "icon": "FileText",
+        "details": [
+          "Countries and headcount",
+          "Commercials and SLAs",
+          "Compliance touchpoints"
+        ]
+      },
+      {
+        "number": 2,
+        "title": "Onboard employees",
+        "description": "Local contracts, payroll setup, and registrations ready for day one in each market.",
+        "icon": "Users",
+        "details": [
+          "Compliant employment agreements",
+          "Payroll and benefits setup",
+          "Tax and social registrations"
+        ]
+      },
+      {
+        "number": 3,
+        "title": "Run payroll & HR",
+        "description": "Monthly payroll, filings, changes, and HR lifecycle support while you manage performance.",
+        "icon": "Shield",
+        "details": [
+          "Payroll and contributions",
+          "Ongoing employment compliance",
+          "Leavers, moves, and adjustments"
+        ]
+      }
+    ]
+  },
+  "included": {
+    "title": "What's included in our Employer of Record service",
+    "subtitle": "",
+    "description": "Everything below is built so you can scale global hiring without building a legal and payroll stack in every country.",
+    "features": [
+      {
+        "icon": "FileCheck",
+        "title": "Locally compliant contracts",
+        "description": "Employment terms that match local law and your policy so new hires start on solid ground without legal guesswork."
+      },
+      {
+        "icon": "Globe",
+        "title": "Global payroll and tax filing",
+        "description": "Accurate pay runs, withholding, and statutory submissions where we operate fewer payroll surprises across borders."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Compliance monitoring",
+        "description": "We track regulatory and process changes that affect your people, so employment compliance does not depend on ad-hoc updates."
+      },
+      {
+        "icon": "UserCog",
+        "title": "HR lifecycle management",
+        "description": "Onboarding, changes, time off, and exits handled with consistent process your managers stay focused on the work."
+      },
+      {
+        "icon": "LayoutDashboard",
+        "title": "Reporting you can use",
+        "description": "Headcount, cost, and payroll visibility in one place better forecasts and fewer spreadsheet versions."
+      },
+      {
+        "icon": "ArrowRightLeft",
+        "title": "Contractor to employee moves",
+        "description": "When roles should be employment instead of contractor engagements, we help you convert cleanly and reduce misclassification risk."
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Employer of Record vs PEO, and Payroll Outsourcing",
+    "subtitle": "Pick the model that matches entity status and risk",
+    "description": "Same talent goal, different legal setups. Use this to see when Employer of Record fits global hiring without a local company.",
+    "options": [
+      {
+        "type": "Employer of Record (EOR)",
+        "icon": "Building2",
+        "description": "We are the legal employer. Built for hire without entity and full employment compliance.",
+        "features": [
+          "Legal employer on record",
+          "No local entity required",
+          "International payroll and HR",
+          "Employment compliance in scope",
+          "You direct day-to-day work"
+        ],
+        "bestFor": "Global hiring, new markets, remote teams"
+      },
+      {
+        "type": "PEO",
+        "icon": "Users",
+        "description": "Co-employment when you already have an entity in-country.",
+        "features": [
+          "Requires your local entity",
+          "Shared employer responsibilities",
+          "You remain in the chain of employment",
+          "Strong fit for established subsidiaries",
+          "Less suited if you have no entity"
+        ],
+        "bestFor": "Companies with an existing local legal entity"
+      },
+      {
+        "type": "Payroll outsourcing",
+        "icon": "FileText",
+        "description": "Run payroll only you stay the legal employer.",
+        "features": [
+          "You are still the employer",
+          "Entity typically required",
+          "No full employment shield",
+          "You own compliance decisions",
+          "Ideal with strong in-house HR/legal"
+        ],
+        "bestFor": "Teams that only need calculation and pay services"
+      }
+    ]
+  },
+  "countries": {
+    "title": "Where we employ through Employer of Record",
+    "subtitle": "Local infrastructure",
+    "description": "We support Employer of Record and global hiring in 17+ countries. Below are markets where our own entities and specialists are especially active.",
+    "items": [
+      {
+        "name": "Belgium",
+        "flag": "/countries/flag/Flag_of_Belgium.svg.webp"
+      },
+      {
+        "name": "China",
+        "flag": "/countries/flag/Flag_of_the_People's_Republic_of_China.svg.webp"
+      },
+      {
+        "name": "Czech Republic",
+        "flag": "/countries/flag/Flag_of_the_Czech_Republic.svg.webp"
+      },
+      {
+        "name": "France",
+        "flag": "/countries/flag/Flag_of_France.svg.webp"
+      },
+      {
+        "name": "Germany",
+        "flag": "/countries/flag/Flag_of_Germany_(3-2).svg.webp"
+      },
+      {
+        "name": "Hong Kong",
+        "flag": "/countries/flag/Flag_of_Hong_Kong.svg (1).webp"
+      },
+      {
+        "name": "India",
+        "flag": "/countries/flag/Flag_of_India.svg.webp"
+      },
+      {
+        "name": "Italy",
+        "flag": "/countries/flag/Flag_of_Italy.svg.webp"
+      },
+      {
+        "name": "Netherlands",
+        "flag": "/countries/flag/Flag_of_the_Netherlands.svg.webp"
+      },
+      {
+        "name": "Poland",
+        "flag": "/countries/flag/Flag_of_Poland.svg.webp"
+      },
+      {
+        "name": "Spain",
+        "flag": "/countries/flag/Flag_of_Spain.svg.webp"
+      },
+      {
+        "name": "UAE",
+        "flag": "/countries/flag/Flag_of_the_United_Arab_Emirates.svg"
+      },
+      {
+        "name": "United Kingdom",
+        "flag": "/countries/flag/Flag-United-Kingdom.webp"
+      }
+    ],
+    "note": "Ask us about any target country availability and timelines vary by jurisdiction."
+  },
+  "useCases": {
+    "title": "Perfect for every scenario",
+    "subtitle": "Use cases",
+    "description": "Whether you're testing new markets or scaling globally, our Employer of Record (EOR) services adapt to your needs with a practical approach to global hiring and international payroll.",
+    "ctaButtonText": "Get started",
+    "useCases": [
+      {
+        "icon": "Target",
+        "title": "Market testing",
+        "description": "Test new markets without committing to a local entity. Ideal for startups and enterprises exploring international opportunities with full employment compliance.",
+        "keyBenefits": [
+          "No legal entity required",
+          "Fast market entry (48–72 hours)",
+          "Full compliance coverage",
+          "Clear exit path when you pivot"
+        ],
+        "howItWorks": [
+          "Define the target market",
+          "Align on hiring requirements",
+          "We handle legal employer setup",
+          "You start hiring immediately"
+        ]
+      },
+      {
+        "icon": "Users",
+        "title": "Remote teams",
+        "description": "Hire strong talent globally and run distributed teams under proper employment contracts not guesswork on local rules.",
+        "keyBenefits": [
+          "Access to a global talent pool",
+          "Local employment compliance",
+          "Consistent people operations",
+          "Support for distributed onboarding"
+        ],
+        "howItWorks": [
+          "Define roles and locations",
+          "Source and select candidates",
+          "We employ under local law",
+          "You manage day-to-day work"
+        ]
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Quick expansion",
+        "description": "Enter new territories without waiting on entity incorporation. Speed up revenue and hiring with Employer of Record where it fits.",
+        "keyBenefits": [
+          "Faster time to first hire",
+          "Scalable multi-country support",
+          "International payroll in scope",
+          "Growth-focused setup"
+        ],
+        "howItWorks": [
+          "Prioritise expansion markets",
+          "Stand up EOR coverage",
+          "Launch hiring in parallel",
+          "Scale headcount as you win"
+        ]
+      },
+      {
+        "icon": "Building2",
+        "title": "Acquisition support",
+        "description": "Integrate acquired teams with continuity on contracts, payroll, and compliance during M&A transitions.",
+        "keyBenefits": [
+          "Structured integration planning",
+          "Employee experience in focus",
+          "Compliance continuity",
+          "Reduced transition risk"
+        ],
+        "howItWorks": [
+          "Assess the acquired workforce",
+          "Plan employment transfer steps",
+          "Migrate contracts and payroll",
+          "Stabilise ongoing operations"
+        ]
+      }
+    ]
+  },
+  "whoNeeds": {
+    "title": "Who needs an Employer of Record?",
+    "subtitle": "",
+    "description": "If global hiring, speed, or compliance load is the blocker, EOR is usually the lever.",
+    "audiences": [
+      {
+        "icon": "Rocket",
+        "userType": "Startups hiring globally",
+        "pain": "No entity, no in-house global payroll team still need real employees in-market.",
+        "solution": "Employer of Record gets you compliant hires in days, not months."
+      },
+      {
+        "icon": "TrendingUp",
+        "userType": "Scale-ups entering new markets",
+        "pain": "Entity setup slows revenue and hiring; you need employment compliance from day one.",
+        "solution": "Land the team first, decide on subsidiaries later without skipping payroll or contracts."
+      },
+      {
+        "icon": "Megaphone",
+        "userType": "Agencies and MSPs",
+        "pain": "Client projects need people in many countries; you cannot open an entity per client.",
+        "solution": "One EOR partner pattern for international payroll and HR across accounts."
+      },
+      {
+        "icon": "Layers",
+        "userType": "Contractor-heavy companies",
+        "pain": "Roles look like employment; contractor models create compliance and audit exposure.",
+        "solution": "Convert to Employer of Record employment where it fits clear employer obligations."
+      },
+      {
+        "icon": "Users",
+        "userType": "HR teams managing a global workforce",
+        "pain": "Too many vendors, spreadsheets, and country rules for a lean HR function.",
+        "solution": "Consolidate global hiring, payroll, and lifecycle support behind one EOR programme."
+      }
+    ]
+  },
+  "complianceTrust": {
+    "title": "Stay compliant, reduce risk",
+    "subtitle": "",
+    "intro": [
+      "We align employment, payroll, and documentation with local labour law in each country where we support younot a one-size template forced across every market.",
+      "Your payroll records and contracts are maintained so internal reviews and external audits are straightforward: consistent data, clear employer-of-record documentation, and traceable processes."
+    ],
+    "bullets": [
+      "Country-by-country alignment with employment and payroll rules.",
+      "Payroll and contracts structured to be audit-ready.",
+      "Data handled with GDPR-aware practices and ISO-style security controls."
+    ]
+  },
+  "faqs": {
+    "title": "Frequently asked questions",
+    "subtitle": "",
+    "items": [
+      {
+        "question": "What is an Employer of Record (EOR)?",
+        "answer": "An Employer of Record is the legal employer for your workers in a country where you do not have your own entity. We handle contracts, international payroll, taxes and contributions where applicable, and core HR while you manage day-to-day work."
+      },
+      {
+        "question": "How quickly can we start hiring with EOR?",
+        "answer": "Most clients onboard first hires in about 48–72 hours after scope is clear far faster than incorporating and standing up payroll locally."
+      },
+      {
+        "question": "Do we need a local entity for Employer of Record?",
+        "answer": "No. That is the main point of EOR: hire without entity setup. We employ under our in-country structure so you can enter markets without a subsidiary."
+      },
+      {
+        "question": "Which countries do you support?",
+        "answer": "We deliver Employer of Record and global hiring support in 17+ countries, including major European and APAC hubs. Contact us for your specific locations."
+      },
+      {
+        "question": "Who manages day-to-day work?",
+        "answer": "You do. The EOR handles legal employment, payroll, and employment compliance execution not how people do their jobs."
+      },
+      {
+        "question": "What compliance does the EOR cover?",
+        "answer": "We apply local labour rules, statutory benefits, social contributions, and filing obligations for employed staff in scope so international payroll and HR stay aligned with each jurisdiction."
+      },
+      {
+        "question": "Can we switch from another EOR to Jackson & Frank?",
+        "answer": "Yes. We plan transfers, contract continuity, and payroll handoffs so there is no gap for employees."
+      },
+      {
+        "question": "Do you offer immigration support with EOR?",
+        "answer": "Yes. We coordinate work permits and visas alongside employment so relocation and global hiring stay in one programme."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Start global hiring with Employer of Record",
+    "description": "700+ companies use us for international payroll and employment compliance. Most first hires go live in 48–72 hours.",
+    "primaryButtonText": "Start hiring in days",
+    "primaryButtonReason": "eor",
+    "features": [
+      "No setup fees",
+      "48–72 hour typical go-live",
+      "Hire without entity",
+      "Employment compliance in scope"
+    ]
+  }
+}

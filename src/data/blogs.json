@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "id": 20260421,
+      "slug": "hiring-your-first-european-employee",
+      "title": "Hiring your first European employee",
+      "excerpt": "Real all-in employer costs in 13 European countries for 2026 - updated salary anchors, 2025–26 regulatory changes, a comparison table, and hidden cost layers EOR and People teams should budget for.",
+      "image_url": "/blog-images/hiring-european-employee.webp",
+      "publish_date": "2026-04-21",
+      "estimated_reading_time": 24,
+      "category": "Hiring"
+    },
+    {
+      "id": 20260413,
+      "slug": "europe-hiring-routes-entity-eor-payroll-decision-matrix",
+      "title": "Entity vs EOR vs payroll registration in Europe: a decision matrix",
+      "excerpt": "Compare hiring options across 13 European markets, with a decision matrix and checklist for the next 12 to 24 months.",
+      "image_url": "/blog-images/entity-vs-eor.webp",
+      "publish_date": "2026-04-13",
+      "estimated_reading_time": 14,
+      "category": "Strategy"
+    },
+    {
+      "id": 20260227,
+      "slug": "permanent-establishment-work-from-anywhere-trap",
+      "title": "The \"10 day work from anywhere\" PE trap: Why the 183 day rule is a myth",
+      "excerpt": "The 183 day rule is a myth. Learn how permanent establishment can be triggered in days and what the 2025 OECD update means for your remote work policy.",
+      "image_url": "/blog-images/pe-trap.webp",
+      "publish_date": "2026-02-27",
+      "estimated_reading_time": 8,
+      "category": "Tax & compliance"
+    },
+    {
+      "id": 20260326,
+      "slug": "netherlands-public-holidays-2026",
+      "title": "Netherlands public holidays 2026: dates, pay rules & employer guide",
+      "excerpt": "All 11 official Dutch public holidays for 2026, how CAOs and contracts set pay and time off, and what foreign employers hiring in the Netherlands need to plan for.",
+      "image_url": "/blog-images/netherlands-holiday.webp",
+      "publish_date": "2026-03-26",
+      "estimated_reading_time": 4,
+      "category": "Payroll"
+    },
+    {
+      "id": 20260331,
+      "slug": "uk-bank-holidays-2026",
+      "title": "UK bank holidays 2026: dates, pay rules & employer guide",
+      "excerpt": "Confirmed 2026 bank holidays for England & Wales, Scotland, and Northern Ireland, how contracts interact with the 5.6-week leave minimum, and what foreign employers must get right.",
+      "image_url": "/blog-images/uk-bank-holiday.webp",
+      "publish_date": "2026-03-31",
+      "estimated_reading_time": 5,
+      "category": "Payroll"
+    },
+    {
+      "id": 20260330,
+      "slug": "germany-public-holidays-2026",
+      "title": "Germany public holidays 2026: dates, pay rules & employer guide",
+      "excerpt": "All 9 nationwide German public holidays for 2026, state-by-state extras, ArbZG and EFZG pay rules, and what foreign employers need to configure per employee location.",
+      "image_url": "/blog-images/germany-public-holiday.webp",
+      "publish_date": "2026-03-30",
+      "estimated_reading_time": 4,
+      "category": "Payroll"
+    },
+    {
+      "id": 20260429,
+      "slug": "belgium-public-holidays-2026",
+      "title": "Belgium public holidays 2026",
+      "excerpt": "Belgium's 10 official public holidays for 2026, regional differences across Flanders, Wallonia and Brussels, and the pay rules foreign employers must follow.",
+      "image_url": "/blog-images/belgium-holiday.webp",
+      "publish_date": "2026-04-29",
+      "estimated_reading_time": 9,
+      "category": "Payroll"
+    },
+    {
+      "id": 20260329,
+      "slug": "spain-public-holidays-2026",
+      "title": "Spain public holidays 2026: dates, pay rules & employer guide",
+      "excerpt": "Spain's 14-day public holiday calendar for 2026 across the autonomous communities, plus pay rules and what foreign employers must configure per region.",
+      "image_url": "/blog-images/spain-holiday.webp",
+      "publish_date": "2026-03-29",
+      "estimated_reading_time": 5,
+      "category": "Payroll"
+    },
+    {
+      "id": 20260430,
+      "slug": "italy-bank-holidays-2026",
+      "title": "Italy Bank Holidays 2026",
+      "excerpt": "Italy's national and patron-saint holidays for 2026, payroll implications, and what employers hiring Italian staff should plan for.",
+      "image_url": "/blog-images/Italy-Bank-Holidays-2026.avif",
+      "publish_date": "2026-04-30",
+      "estimated_reading_time": 5,
+      "category": "Payroll"
+    },
+    {
+      "id": 20250310,
+      "slug": "work-visa-europe-guide",
+      "title": "Step-by-Step Guide to Getting a Work Visa in Europe (2026 Update)",
+      "excerpt": "Everything you need to know about work visas across Europe in 2026 - country-by-country requirements, timelines, costs, and tips for navigating the application process.",
+      "image_url": "/blog-images/work-visa-in-europe.webp",
+      "publish_date": "2025-03-10",
+      "estimated_reading_time": 25,
+      "category": "Immigration"
+    }
+  ]
+}

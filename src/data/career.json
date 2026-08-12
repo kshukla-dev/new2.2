@@ -1,0 +1,115 @@
+{
+  "definition": {
+    "title": "Build the future of global HR",
+    "description": "Join Jackson & Frank and help us revolutionize how companies hire and manage talent worldwide. Be part of a mission-driven team building the infrastructure for the future of work.",
+    "image": "/career/carrer.webp",
+    "imageAlt": "Career Opportunities at Jackson & Frank",
+    "keyFeatures": [
+      "Remote-first culture",
+      "Great benefits package",
+      "Diverse global team"
+    ],
+    "primaryButtonText": "View open positions",
+    "secondaryButtonText": "Learn about our culture",
+    "primaryButtonHref": "#open-positions",
+    "secondaryButtonHref": "/about-us",
+    "primaryButtonReason": "careers",
+    "secondaryButtonReason": "general",
+    "trustSignals": {
+      "title": "Join our growing team",
+      "subtitle": "Numbers that reflect our commitment to creating an amazing workplace.",
+      "stats": [
+        {
+          "value": "17+",
+          "label": "countries",
+          "description": "Owned Markets"
+        },
+        {
+          "value": "15+",
+          "label": "local offices",
+          "description": "in countries we operate"
+        },
+        {
+          "value": "€110K-200K",
+          "label": "saved per country",
+          "description": "in set-up costs"
+        },
+        {
+          "value": "700+",
+          "label": "companies",
+          "description": "trust us"
+        }
+      ]
+    }
+  },
+  "benefits": [
+    {
+      "title": "Remote-first culture",
+      "description": "Work from anywhere in the world with flexible hours and a supportive remote culture.",
+      "icon": "Globe"
+    },
+    {
+      "title": "Health & wellness",
+      "description": "Comprehensive health insurance, mental health support, and wellness programs.",
+      "icon": "Heart"
+    },
+    {
+      "title": "Learning & development",
+      "description": "Continuous learning opportunities, conferences, and professional development budget.",
+      "icon": "GraduationCap"
+    },
+    {
+      "title": "Diverse team",
+      "description": "Join a multicultural team from 17+ countries with diverse perspectives and experiences.",
+      "icon": "Users"
+    }
+  ],
+  "openPositions": [
+    {
+      "title": "Global Mobility Specialist",
+      "department": "Human Resources",
+      "location": "Nagpur (Onsite)",
+      "type": "Full-time",
+      "description": "Play a key role in managing and coordinating international assignments, relocations, and cross-border employment activities. Ensure compliance with global immigration, tax, and labour regulations while providing an excellent relocation experience for employees. Ideal candidate will possess a strong understanding of international HR practices and a passion for supporting a diverse and global workforce.",
+      "href": "https://forms.gle/b8F7Bp3ZaPqDwoLq7"
+    }
+  ],
+  "faqs": {
+    "title": "Frequently asked questions",
+    "subtitle": "",
+    "items": [
+      {
+        "question": "Where are your roles based?",
+        "answer": "We offer a mix of remote and onsite positions. Many roles are remote-first; some positions are based in our offices such as Nagpur. Each job listing specifies location and work type."
+      },
+      {
+        "question": "What benefits do you offer?",
+        "answer": "We offer comprehensive health insurance, mental health support, wellness programs, continuous learning and development, and a professional development budget. Our culture is remote-first with flexible hours."
+      },
+      {
+        "question": "How do I apply for a position?",
+        "answer": "Use the application link in the job listing. You'll be directed to our application form. Our team reviews applications and will contact shortlisted candidates for next steps."
+      },
+      {
+        "question": "Do you hire internationally?",
+        "answer": "Yes. We have a diverse, multicultural team and hire talent in multiple countries. Eligibility depends on the role and location; check each listing for details."
+      },
+      {
+        "question": "What is the interview process like?",
+        "answer": "After you apply, shortlisted candidates are contacted for an initial call or video interview. Depending on the role, there may be additional rounds with the hiring team. We aim to keep the process efficient and transparent."
+      },
+      {
+        "question": "Do you offer internships or graduate programs?",
+        "answer": "We occasionally offer internships and early-career roles. Check the Career page for current openings. When available, they are listed with the same application process as other positions."
+      },
+      {
+        "question": "How do you support work-life balance?",
+        "answer": "We offer flexible hours, remote-first options where applicable, wellness programs, and mental health support. We believe in sustainable productivity and supporting our team's wellbeing."
+      },
+      {
+        "question": "What growth opportunities are there?",
+        "answer": "We invest in continuous learning and development, with a professional development budget and growth paths within your function. Many team members grow into broader or leadership roles over time."
+      }
+    ]
+  }
+}

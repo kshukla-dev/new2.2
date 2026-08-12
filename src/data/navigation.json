@@ -1,0 +1,181 @@
+{
+  "navbar": {
+    "services": {
+      "label": "Services",
+      "dropdownLabel": "What we do",
+      "items": [
+        {
+          "title": "Employer of record",
+          "description": "Hire global talent across 17+ countries without local entities.",
+          "icon": "Building2",
+          "href": "/employer-of-record"
+        },
+        {
+          "title": "Immigration",
+          "description": "Work visa and permit services for employee relocation.",
+          "icon": "Globe",
+          "href": "/immigration"
+        },
+        {
+          "title": "Payroll",
+          "description": "Global payroll management with multi-country processing.",
+          "icon": "Calculator",
+          "href": "/payroll"
+        },
+        {
+          "title": "Compliance",
+          "description": "Stay compliant with local regulations and labor laws worldwide.",
+          "icon": "Shield",
+          "href": "/compliance"
+        },
+        {
+          "title": "Contractor",
+          "description": "Access global talent with compliant contractor agreements ",
+          "icon": "Users",
+          "href": "/contractor"
+        }
+      ]
+    },
+    "insights": {
+      "label": "Resources",
+      "dropdownLabel": "Insights & tools",
+      "items": [
+        {
+          "title": "Blog",
+          "description": "Insights on global workforce management and hiring trends.",
+          "icon": "BookOpen",
+          "href": "/blog"
+        },
+        {
+          "title": "Success stories",
+          "description": "Learn about how we help companies expand globally",
+          "icon": "FileText",
+          "href": "/case-studies"
+        },
+        {
+          "title": "Global hiring guide",
+          "description": "Comprehensive guide to global hiring, payroll management, and international workforce solutions across 17+ countries.",
+          "icon": "Globe",
+          "href": "/global-hiring-guide"
+        },
+        {
+          "title": "Press release",
+          "description": "Official press release and event recaps from Jackson & Frank forums ",
+          "icon": "Newspaper",
+          "href": "/resources/events/china-europe-2026"
+        }
+      ]
+    },
+    "career": {
+      "label": "Career",
+      "href": "/career"
+    },
+    "about": {
+      "label": "About",
+      "href": "/about-us",
+      "dropdownLabel": "Who we are",
+      "items": [
+        {
+          "title": "About us",
+          "description": "Learn about Jackson & Frank's mission, values, and global workforce solutions.",
+          "icon": "Globe",
+          "href": "/about-us"
+        },
+        {
+          "title": "Our advantages",
+          "description": "Learn about Jackson & Frank's advantages and why we are the best choice for your global workforce solutions.",
+          "icon": "Star",
+          "href": "/advantages"
+        },
+        {
+          "title": "Careers",
+          "description": "Join our team and help us revolutionize how companies hire and manage talent worldwide.",
+          "icon": "Users",
+          "href": "/career"
+        }
+      ]
+    },
+    "language": {
+      "label": "EN",
+      "mobileLabel": "Language (EN)",
+      "options": [
+        {
+          "name": "English",
+          "code": "EN",
+          "href": null,
+          "active": true
+        },
+        {
+          "name": "Mandarin",
+          "code": "CN",
+          "href": "https://jacksonandfrank.cn/",
+          "active": false
+        }
+      ]
+    },
+    "region": {
+      "label": "Regions",
+      "mobileLabel": "Regions",
+      "options": [
+        {
+          "name": "EMEA",
+          "code": "EMEA",
+          "href": null,
+          "active": true
+        },
+        {
+          "name": "China",
+          "code": "CN",
+          "href": "https://jacksonandfrank.cn/",
+          "active": false
+        }
+      ]
+    },
+    "cta": {
+      "label": "Contact us",
+      "href": "/contact"
+    }
+  },
+  "footer": {
+    "company": [
+      {
+        "name": "About us",
+        "href": "/about-us"
+      },
+      {
+        "name": "Careers",
+        "href": "/career"
+      }
+    ],
+    "resources": [
+      {
+        "name": "FAQs",
+        "href": "/faq"
+      },
+      {
+        "name": "Press release - China to Europe 2026",
+        "href": "/resources/events/china-europe-2026"
+      }
+    ],
+    "legal": [
+      {
+        "name": "Privacy policy",
+        "href": "/privacy-policy"
+      },
+      {
+        "name": "Sitemap",
+        "href": "/sitemaps"
+      }
+    ],
+    "social": [
+      {
+        "name": "LinkedIn",
+        "href": "https://linkedin.com/company/jacksonandfrank"
+      },
+      {
+        "name": "Twitter",
+        "href": "https://twitter.com/jacksonandfrank"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "title": "China to Europe 2026 - Scaling Beyond Borders | Jackson & Frank",
+    "description": "A one-day exclusive event bringing together business leaders, investors, and experts to explore opportunities, navigate complexities, and scale your business from China to Europe.",
+    "path": "/events/china-europe-2026"
+  },
+  "hero": {
+    "title": "China to Europe 2026: Scaling Beyond Borders",
+    "eventTitle": "China to Europe 2026: Scaling Beyond Borders",
+    "eventSubline": "A one-day exclusive event bringing together business leaders, investors, and experts to explore opportunities, navigate complexities, and scale your business from China to Europe.",
+    "date": "May 15, 2026",
+    "time": "9:00 AM - 5:30 PM",
+    "venue": "The Ritz-Carlton",
+    "city": "Shanghai, China",
+    "attendees": "200+ Business Leaders",
+    "ctaText": "Register Your Interest"
+  },
+  "eventBackground": {
+    "title": "Why China to Europe?",
+    "tag": "EVENT BACKGROUND",
+    "paragraphs": [
+      "As global supply chains evolve and new opportunities emerge, businesses are rethinking expansion. Europe offers stability, innovation, and access to a vast market.",
+      "This event is your roadmap to enter and scale successfully."
+    ],
+    "stats": [
+      { "value": "€20T+", "label": "EU Market Size", "icon": "globe" },
+      { "value": "450M+", "label": "Consumers", "icon": "group" },
+      { "value": "Top 3", "label": "Global Economy", "icon": "chart" },
+      { "value": "Endless", "label": "Opportunities", "icon": "shield" }
+    ]
+  },
+  "journey": {
+    "tag": "PLAN → SETUP → SCALE",
+    "title": "Your Journey. Our Expertise.",
+    "subtitle": "From strategic planning to seamless setup and sustainable growth, we help you scale beyond borders with confidence.",
+    "cards": [
+      {
+        "step": "01",
+        "title": "Strategy & Market Entry",
+        "category": "PLAN",
+        "description": "Market insights, opportunity assessment, and tailored entry strategies for long-term success.",
+        "icon": "target"
+      },
+      {
+        "step": "02",
+        "title": "Build & Establish",
+        "category": "SETUP",
+        "description": "Entity setup, legal compliance, local partnerships, and operational infrastructure.",
+        "icon": "gear"
+      },
+      {
+        "step": "03",
+        "title": "Grow & Expand",
+        "category": "SCALE",
+        "description": "Scale operations, optimize processes, and unlock new opportunities across Europe.",
+        "icon": "chart"
+      }
+    ]
+  },
+  "expectations": {
+    "tag": "THE DAY",
+    "title": "What to Expect",
+    "items": [
+      { "title": "Insightful Keynotes", "description": "Hear from industry leaders and visionaries.", "icon": "person" },
+      { "title": "Expert Panel Discussions", "description": "Engage in thought-provoking discussions.", "icon": "chat" },
+      { "title": "Business Networking", "description": "Connect with decision makers and peers.", "icon": "network" },
+      { "title": "Real-world Case Studies", "description": "Learn from successful cross-border stories.", "icon": "document" },
+      { "title": "1-on-1 Consultations", "description": "Get personalized advice from experts.", "icon": "people" },
+      { "title": "Exclusive Takeaways", "description": "Walk away with practical insights and resources.", "icon": "gift" }
+    ]
+  },
+  "speakers": [
+    {
+      "name": "Pawel Michalkiewicz",
+      "role": "Founder & Chief Strategy Officer",
+      "company": "Jackson & Frank",
+      "image": "/speakers/pawel-michalkiewicz.webp",
+      "featured": true,
+      "location": "Poland",
+      "experience": "20+ Years",
+      "badges": ["HR", "Tax", "EOR", "Compliance"],
+      "speakingTitle": "Your 3-Stage Europe Expansion Journey",
+      "speakingTime": "13:30 - 14:00 PM",
+      "linkedin": "#"
+    },
+    {
+      "name": "Paul Halprin",
+      "role": "Partner",
+      "company": "Halprin Law",
+      "image": "/speakers/paul-halprin.webp",
+      "location": "United States",
+      "experience": "25+ Years",
+      "badges": ["Legal", "Compliance", "M&A"],
+      "linkedin": "#"
+    },
+    {
+      "name": "Martijn van de Hel",
+      "role": "Managing Partner",
+      "company": "Maverick Advocate",
+      "image": "/speakers/Martijn-van-de-hel.webp",
+      "location": "Netherlands",
+      "experience": "15+ Years",
+      "badges": ["EOR", "Corporate", "Strategy"],
+      "linkedin": "#"
+    },
+    {
+      "name": "Xin Shi",
+      "role": "Legal Counsel",
+      "company": "Amice Advocaten",
+      "image": "/speakers/xin-shi.webp",
+      "location": "Belgium",
+      "experience": "12+ Years",
+      "badges": ["Legal", "Compliance", "GDPR"],
+      "linkedin": "#"
+    }
+  ],
+  "footerCta": {
+    "tag": "Be part of the future of global business.",
+    "title": "Let's build your global success story together.",
+    "description": "Join us on May 15, 2026 in Shanghai for a day of insights, connections, and opportunities.",
+    "ctaText": "Register Your Interest"
+  }
+}

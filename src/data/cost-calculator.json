@@ -1,0 +1,298 @@
+{
+  "hero": {
+    "badge": {
+      "icon": "Calculator",
+      "text": "Cost calculator"
+    },
+    "title": "Calculate employment costs",
+    "description": "Get accurate cost estimates for 12 countries. Includes wages, benefits, and payroll taxes."
+  },
+  "calculator": {
+    "title": "Salary calculator",
+    "subtitle": "Enter employee details to calculate total costs",
+    "countryLabel": "Select country *",
+    "grossSalaryLabel": "Gross annual salary",
+    "benefitsLabel": "Additional Benefits",
+    "benefitsPlaceholder": "Leave empty to use country default benefits",
+    "infoBox": {
+      "title": "Calculation includes:",
+      "items": [
+        "Income tax deductions (from employee salary)",
+        "Employee social security (deducted from salary)",
+        "Employer social security (added to employer cost, NOT deducted from employee)",
+        "Additional benefits and allowances (added to employer cost)",
+        "Total employer cost breakdown"
+      ]
+    },
+    "disclaimer": {
+      "title": "Legal Disclaimer",
+      "text": "Rates shown are estimated averages for 2025 and may vary based on salary slabs, region, exemptions, and employee profile. This tool provides cost estimation, not payroll advice."
+    }
+  },
+  "results": {
+    "title": "Cost breakdown",
+    "netSalaryLabel": "Employee net salary",
+    "netSalarySubtext": "per year (after employee deductions only)",
+    "netSalaryFormula": "= Gross - Income tax - Employee SS (employer SS not deducted)",
+    "totalCostLabel": "Total employer cost",
+    "totalCostSubtext": "per year",
+    "breakdownLabel": "Employer total cost breakdown",
+    "grossSalaryLabel": "Gross salary",
+    "employerSSLabel": "Employer social security",
+    "employerSSNote": "(not deducted from employee)",
+    "benefitsLabel": "Benefits & allowances",
+    "deductionsLabel": "Employee deductions (from gross salary)",
+    "incomeTaxLabel": "Income Tax",
+    "employeeSSLabel": "Employee social security",
+    "employeeSSNote": "(employee portion only)",
+    "employeeSSNoteIndia": "(Employee EPF 12% - deducted from salary)",
+    "totalDeductionsLabel": "Total deductions",
+    "ctaButton": "Get detailed quote",
+    "emptyState": "Select a country and enter salary to see cost breakdown",
+    "disclaimer": "Disclaimer: Rates shown are estimated averages for 2025 and may vary based on salary slabs, region, exemptions, and employee profile. This tool provides cost estimation, not payroll advice."
+  },
+  "countries": [
+    {
+      "value": "netherlands",
+      "label": "Netherlands",
+      "flag": "/countries/flag/Flag_of_the_Netherlands.svg.webp",
+      "currency": "EUR",
+      "currencySymbol": "€",
+      "incomeTaxRate": 0.37,
+      "employeeSocialSecurityRate": 0.27,
+      "employerSocialSecurityRate": 0.20,
+      "benefitsPercentage": 0.22,
+      "averageBenefits": 12000
+    },
+    {
+      "value": "germany",
+      "label": "Germany",
+      "flag": "/countries/flag/Flag_of_Germany_(3-2).svg.webp",
+      "currency": "EUR",
+      "currencySymbol": "€",
+      "incomeTaxRate": 0.38,
+      "employeeSocialSecurityRate": 0.20,
+      "employerSocialSecurityRate": 0.21,
+      "benefitsPercentage": 0.30,
+      "averageBenefits": 15000
+    },
+    {
+      "value": "france",
+      "label": "France",
+      "flag": "/countries/flag/Flag_of_France.svg.webp",
+      "currency": "EUR",
+      "currencySymbol": "€",
+      "incomeTaxRate": 0.30,
+      "employeeSocialSecurityRate": 0.23,
+      "employerSocialSecurityRate": 0.42,
+      "benefitsPercentage": 0.35,
+      "averageBenefits": 18000
+    },
+    {
+      "value": "spain",
+      "label": "Spain",
+      "flag": "/countries/flag/Flag_of_Spain.svg.webp",
+      "currency": "EUR",
+      "currencySymbol": "€",
+      "incomeTaxRate": 0.24,
+      "employeeSocialSecurityRate": 0.06,
+      "employerSocialSecurityRate": 0.30,
+      "benefitsPercentage": 0.20,
+      "averageBenefits": 10000
+    },
+    {
+      "value": "italy",
+      "label": "Italy",
+      "flag": "/countries/flag/Flag_of_Italy.svg.webp",
+      "currency": "EUR",
+      "currencySymbol": "€",
+      "incomeTaxRate": 0.27,
+      "employeeSocialSecurityRate": 0.09,
+      "employerSocialSecurityRate": 0.30,
+      "benefitsPercentage": 0.25,
+      "averageBenefits": 12000
+    },
+    {
+      "value": "belgium",
+      "label": "Belgium",
+      "flag": "/countries/flag/Flag_of_Belgium.svg.webp",
+      "currency": "EUR",
+      "currencySymbol": "€",
+      "incomeTaxRate": 0.45,
+      "employeeSocialSecurityRate": 0.13,
+      "employerSocialSecurityRate": 0.25,
+      "benefitsPercentage": 0.30,
+      "averageBenefits": 15000
+    },
+    {
+      "value": "poland",
+      "label": "Poland",
+      "flag": "/countries/flag/Flag_of_Poland.svg.webp",
+      "currency": "PLN",
+      "currencySymbol": "zł",
+      "incomeTaxRate": 0.17,
+      "employeeSocialSecurityRate": 0.137,
+      "employerSocialSecurityRate": 0.20,
+      "benefitsPercentage": 0.15,
+      "averageBenefits": 24000
+    },
+    {
+      "value": "czech",
+      "label": "Czech Republic",
+      "flag": "/countries/flag/Flag_of_the_Czech_Republic.svg.webp",
+      "currency": "CZK",
+      "currencySymbol": "Kč",
+      "incomeTaxRate": 0.15,
+      "employeeSocialSecurityRate": 0.11,
+      "employerSocialSecurityRate": 0.25,
+      "benefitsPercentage": 0.12,
+      "averageBenefits": 120000
+    },
+    {
+      "value": "uk",
+      "label": "United Kingdom",
+      "flag": "/countries/flag/Flag-United-Kingdom.webp",
+      "currency": "GBP",
+      "currencySymbol": "£",
+      "incomeTaxRate": 0.20,
+      "employeeSocialSecurityRate": 0.12,
+      "employerSocialSecurityRate": 0.138,
+      "benefitsPercentage": 0.20,
+      "averageBenefits": 10000
+    },
+    {
+      "value": "india",
+      "label": "India",
+      "flag": "/countries/flag/Flag_of_India.svg.webp",
+      "currency": "INR",
+      "currencySymbol": "₹",
+      "incomeTaxRate": 0.25,
+      "employeeSocialSecurityRate": 0.12,
+      "employerSocialSecurityRate": 0.12,
+      "benefitsPercentage": 0.18,
+      "averageBenefits": 240000
+    },
+    {
+      "value": "uae",
+      "label": "UAE",
+      "flag": "/countries/flag/Flag_of_the_United_Arab_Emirates.svg",
+      "currency": "AED",
+      "currencySymbol": "د.إ",
+      "incomeTaxRate": 0.00,
+      "employeeSocialSecurityRate": 0.00,
+      "employerSocialSecurityRate": 0.125,
+      "benefitsPercentage": 0.30,
+      "averageBenefits": 30000
+    },
+    {
+      "value": "china",
+      "label": "China",
+      "flag": "/countries/flag/Flag_of_the_People's_Republic_of_China.svg.webp",
+      "currency": "CNY",
+      "currencySymbol": "¥",
+      "incomeTaxRate": 0.15,
+      "employeeSocialSecurityRate": 0.10,
+      "employerSocialSecurityRate": 0.30,
+      "benefitsPercentage": 0.20,
+      "averageBenefits": 35000
+    }
+  ],
+  "features": {
+    "title": "What our salary calculator covers",
+    "subtitle": "Comprehensive cost analysis",
+    "description": "Companies can use the Salary Calculator to compare the financial impact of various potential hires and ensure alignment with their budgetary goals.",
+    "items": [
+      {
+        "icon": "DollarSign",
+        "title": "Gross wages",
+        "description": "Base salary calculations with accurate currency conversions for 17+ countries."
+      },
+      {
+        "icon": "Shield",
+        "title": "Payroll taxes",
+        "description": "Comprehensive tax calculations including income tax and social security contributions."
+      },
+      {
+        "icon": "Coins",
+        "title": "Additional benefits",
+        "description": "Health insurance, retirement plans, and other mandatory or customary benefits."
+      },
+      {
+        "icon": "Building2",
+        "title": "Total costs",
+        "description": "Complete employer cost breakdown including all taxes, benefits, and overheads."
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Why use our salary calculator?",
+    "subtitle": "Make informed hiring decisions",
+    "items": [
+      {
+        "icon": "Calculator",
+        "title": "Accurate calculations",
+        "description": "Real-time calculations based on current tax rates and regulations for each country."
+      },
+      {
+        "icon": "Globe",
+        "title": "17+ countries",
+        "description": "Compare employment costs across major markets worldwide with country-specific data."
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Budget planning",
+        "description": "Plan your global hiring budget accurately with comprehensive cost breakdowns."
+      }
+    ]
+  },
+  "faqs": {
+    "title": "Frequently asked questions",
+    "subtitle": "",
+    "items": [
+      {
+        "question": "What does the cost calculator include?",
+        "answer": "The calculator includes income tax (employee deductions), employee and employer social security, and optional benefits. It shows net salary to the employee and total employer cost per year for the selected country."
+      },
+      {
+        "question": "Are the tax and benefit rates exact?",
+        "answer": "Rates are estimated averages for 2025 and may vary by salary level, region, exemptions, and employee profile. Use the results as a planning guide; we provide exact quotes and payroll advice when you engage our services."
+      },
+      {
+        "question": "Which countries are supported?",
+        "answer": "The calculator currently covers 12 major markets. We support employment and payroll in 17+ countries-contact us for a detailed quote for any country."
+      },
+      {
+        "question": "How do I get a detailed quote?",
+        "answer": "Use the 'Get detailed quote' button or contact us with your country, headcount, and role details. Our team will provide a tailored cost breakdown and guide you through next steps."
+      },
+      {
+        "question": "Why do net and total cost differ?",
+        "answer": "Net salary is what the employee receives after income tax and employee social security. Total employer cost includes employer social security, benefits, and any other statutory costs-so it is higher than gross salary."
+      },
+      {
+        "question": "Can I compare multiple countries at once?",
+        "answer": "Use the calculator for one country at a time to see detailed breakdowns. For multi-country comparison, contact us with your list of countries and we'll provide a side-by-side cost summary."
+      },
+      {
+        "question": "Are benefits mandatory in every country?",
+        "answer": "Statutory benefits vary by country. The calculator allows you to add common benefits; we can confirm what is mandatory in your target country when you request a quote."
+      },
+      {
+        "question": "How often are calculator rates updated?",
+        "answer": "We update rates when tax or social security rules change, typically at least annually. For critical planning, always confirm current rates with our team when you're ready to hire."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to hire globally?",
+    "description": "Get a detailed quote tailored to your specific needs. Our team will provide you with a comprehensive cost breakdown and help you navigate global employment.",
+    "primaryButtonText": "Get detailed quote",
+    "primaryButtonReason": "general",
+    "features": [
+      "Custom pricing for your needs",
+      "Full cost breakdown included",
+      "Expert consultation available",
+      "No hidden fees"
+    ]
+  }
+}

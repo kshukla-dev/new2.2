@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "title": "Contractor of Record Services Europe | Jackson & Frank",
+    "description": "Hire contractors across Europe without misclassification risk. Jackson & Frank acts as Contractor of Record in 17+ markets, with owned entities and in-country specialists. Compliance quote within 24 hours.",
+    "keywords": [
+      "Contractor of Record",
+      "Contractor of Record Europe",
+      "Contractor misclassification",
+      "IR35 compliance",
+      "Scheinselbstandigkeit",
+      "URSSAF contractor compliance",
+      "Global contractor management",
+      "Contractor payments Europe",
+      "Independent contractor compliance"
+    ],
+    "openGraph": {
+      "title": "Contractor of Record Services Europe | Jackson & Frank",
+      "description": "Hire contractors across Europe without misclassification risk. Jackson & Frank acts as Contractor of Record in 17+ markets, with owned entities and in-country specialists.",
+      "url": "/contractor",
+      "siteName": "Jackson & Frank",
+      "images": [
+        {
+          "url": "/services/service-page/contractor-hero.webp",
+          "width": 1200,
+          "height": 630,
+          "alt": "Contractor of Record services for Europe - Jackson & Frank"
+        }
+      ],
+      "locale": "en_US",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Contractor of Record Services Europe | Jackson & Frank",
+      "description": "Hire contractors across Europe without misclassification risk. Compliance quote within 24 hours.",
+      "images": [
+        "/services/service-page/contractor-hero.webp"
+      ]
+    },
+    "alternates": {
+      "canonical": "/contractor"
+    }
+  },
+  "hero": {
+    "bullets": [
+      "Workers classified correctly under local law in every market we operate",
+      "Locally compliant contracts, issued and reviewed by our in-country team",
+      "Contractor payments cleared within 48 hours of instruction"
+    ],
+    "primaryButtonText": "Get a quote in 24 hours",
+    "secondaryButtonText": "Speak to the team",
+    "trustText": "Trusted by 217 companies managing contractor workforces across Europe"
+  },
+  "riskSection": {
+    "tag": "Why it matters",
+    "headline": "The compliance risk every company managing contractors faces",
+    "body": "When a company treats a worker as an independent contractor but that jurisdiction's employment law considers them an employee, the company is liable for back-taxes, unpaid social contributions, interest, and fines, often going back three years or more. Regulatory enforcement is active across Jackson & Frank's core markets.",
+    "callouts": [
+      {
+        "market": "United Kingdom",
+        "title": "IR35",
+        "description": "HMRC holds the engaging company responsible for determining a contractor's employment status. If the determination is wrong, the company pays the shortfall in income tax and employer National Insurance, plus penalties."
+      },
+      {
+        "market": "Germany",
+        "title": "Scheinselbstandigkeit",
+        "description": "German pension insurance authorities (Deutsche Rentenversicherung) actively audit contractor arrangements. A finding of bogus self-employment triggers retroactive social security contributions from the engaging company."
+      },
+      {
+        "market": "France",
+        "title": "URSSAF",
+        "description": "France has one of the most proactive enforcement regimes in Europe. A reclassified contractor becomes a salaried employee with full retrospective employment rights, including paid leave entitlements and unfair dismissal protection."
+      }
+    ],
+    "transition": "As your Contractor of Record, Jackson & Frank assumes the compliance obligation. Your contractor is engaged through our local entity, the legal relationship sits with us, and our in-country team handles classification, contracts, and payments."
+  },
+  "howItWorks": {
+    "headline": "How Jackson & Frank's Contractor of Record service works",
+    "subheadline": "Three steps. Our entities, our team, your contractor engaged correctly from day one.",
+    "steps": [
+      {
+        "number": 1,
+        "title": "We classify the worker",
+        "description": "Before anything else, our in-country specialist reviews the working arrangement and confirms the correct classification under local law. If there's genuine ambiguity, and in some markets there is, we'll tell you, not guess. Classification gets done once, correctly."
+      },
+      {
+        "number": 2,
+        "title": "We engage them through our local entity",
+        "description": "Jackson & Frank becomes the Contractor of Record. We issue locally compliant agreements in the format and language required by that jurisdiction. Your contractor signs with us, the compliance obligation is ours, not yours."
+      },
+      {
+        "number": 3,
+        "title": "We pay, within 48 hours",
+        "description": "Contractor invoices are processed and paid within 48 hours of instruction. You're invoiced by Jackson & Frank, one clean payment, no local bank accounts, no currency exposure, no payroll complexity on your side."
+      }
+    ],
+    "buttonText": "Get a quote in 24 hours",
+    "buttonLink": "/contact?reason=contractor_of_record"
+  },
+  "comparison": {
+    "tag": "Why Jackson & Frank",
+    "headline": "A Contractor of Record service, not another platform to implement",
+    "intro": "When companies switch to Jackson & Frank from a SaaS EOR or contractor platform, it's usually because the platform solved the wrong problem, they got a tool to learn, not a team to handle it.",
+    "columns": [
+      "",
+      "SaaS contractor platform",
+      "Jackson & Frank Contractor of Record"
+    ],
+    "rows": [
+      [
+        "Onboarding",
+        "4–8 week implementation, new tool for your HR team",
+        "First contractor engaged within days, no platform, no training"
+      ],
+      [
+        "Pricing",
+        "Flat per-head monthly rate",
+        "Quote-based, adapts to your contractor volume and market mix"
+      ],
+      [
+        "Compliance handling",
+        "Automated rules engine",
+        "In-country specialists who know the local case law"
+      ],
+      [
+        "Support",
+        "Ticketed support queue",
+        "A named contact in the market you're hiring in"
+      ],
+      [
+        "Classification",
+        "Software-generated status determination",
+        "Human review of each working arrangement"
+      ],
+      [
+        "Payments",
+        "Standard payment cycle",
+        "48-hour processing from instruction"
+      ]
+    ],
+    "closing": "If you're already running contractors through a platform that isn't working, or you're about to start and want to do it without the implementation overhead, get a quote and we'll show you what the service model looks like.",
+    "buttonText": "Get a quote in 24 hours",
+    "buttonLink": "/contact?reason=contractor_of_record"
+  },
+  "markets": {
+    "headline": "17+ markets. Our entities, our team, your contractors.",
+    "subheadline": "Jackson & Frank holds owned entities and in-country specialists in the following markets. This isn't a partner network, it's our team, under our name.",
+    "active": [
+      {
+        "name": "Belgium",
+        "href": "/belgium-contractor"
+      },
+      {
+        "name": "China",
+        "href": "/china"
+      },
+      {
+        "name": "Czech Republic",
+        "href": "/czech-republic-contractor"
+      },
+      {
+        "name": "France",
+        "href": "/france-contractor"
+      },
+      {
+        "name": "Germany",
+        "href": "/germany-contractor"
+      },
+      {
+        "name": "Hong Kong",
+        "href": "/hong-kong"
+      },
+      {
+        "name": "India",
+        "href": "/india-contractor"
+      },
+      {
+        "name": "Italy",
+        "href": "/italy-contractor"
+      },
+      {
+        "name": "Netherlands",
+        "href": "/netherlands-contractor"
+      },
+      {
+        "name": "Poland",
+        "href": "/poland-contractor"
+      },
+      {
+        "name": "Spain",
+        "href": "/spain-contractor"
+      },
+      {
+        "name": "UAE",
+        "href": "/uae-contractor"
+      },
+      {
+        "name": "UK",
+        "href": "/united-kingdom-contractor"
+      }
+    ],
+    "comingSoon": [
+      "Hungary",
+      "Portugal",
+      "Romania",
+      "Sweden"
+    ],
+    "belowText": "If you're hiring contractors in a market not listed, get in touch, we may be able to support it. We'll confirm within 24 hours."
+  },
+  "proof": {
+    "eyebrow": "Proof",
+    "headline": "Trusted by 217 companies managing contractors across Europe",
+    "subheadline": "From scale-ups hiring their first European contractor to multinationals managing contractor workforces across ten markets.",
+    "testimonials": [
+      {
+        "quote": "We really value our relationship with the team at Jackson & Frank. They're a great group of professionals to work with, knowledgeable, pragmatic, and always clear in how they approach complex cross-border matters. What we appreciate most is how practical they are. Their expertise in legal and workforce structuring, combined with a strong international perspective, makes them a trusted partner when navigating different jurisdictions.",
+        "author": "Robin Zijsling",
+        "role": "LM5 Capital",
+        "image": "/testimonials/robin-zijsling.webp"
+      },
+      {
+        "quote": "During my co-operation with Jackson and Frank B.V., I have noticed that the management does not only do their HR jobs wonderfully, but has had a larger view of the global need of movement of talent and knowledge migrants. Their compliance has given our clients great confidence to work with them.",
+        "author": "Xin Shi LLM",
+        "role": "Amice Advocaten",
+        "image": "/testimonials/xin.webp"
+      },
+      {
+        "quote": "Jackson & Frank combines a strong focus on quality with a practical, client-driven approach, helping businesses navigate the complexities of international business.",
+        "author": "Paul Halprin",
+        "role": "Halprin Law",
+        "image": "/testimonials/paul-halprin.webp"
+      }
+    ]
+  },
+  "faqs": {
+    "title": "Common questions about Contractor of Record services",
+    "items": [
+      {
+        "question": "What is a Contractor of Record, and how is it different from an Employer of Record?",
+        "answer": "A Contractor of Record (COR) is a service where a third party, in this case Jackson & Frank, legally engages an independent contractor on your behalf through a local entity. The contractor remains an independent contractor; Jackson & Frank handles the compliance, contracts, and payments.<br/><br/>An <a href=\"/employer-of-record\" class=\"faq-link\">Employer of Record (EOR)</a> is different: an EOR engages someone as an employee, taking on full employer obligations including benefits, leave entitlements, and payroll taxes. EOR is the right structure when someone is working for you full-time and the working arrangement looks like employment. COR is the right structure when you genuinely want a contractor relationship but need the compliance handled correctly.<br/><br/>If you're not sure which applies to your situation, we'll tell you on the quote call."
+      },
+      {
+        "question": "How do you protect against contractor misclassification risk?",
+        "answer": "Misclassification happens when a company treats a worker as an independent contractor, but local employment law considers them an employee. The consequences include back-taxes, social contribution arrears, fines, and, in some jurisdictions, full employment rights backdated to the start of the relationship.<br/><br/>Jackson & Frank's in-country specialists review each working arrangement before a contract is issued. If the arrangement looks like employment under local law, we'll say so and recommend the appropriate structure. We don't issue COR agreements to arrangements that don't qualify, that would expose both Jackson & Frank and you."
+      },
+      {
+        "question": "Which markets do you cover for Contractor of Record services?",
+        "answer": "Jackson & Frank holds owned entities and in-country specialists in 17+ active markets: Belgium, China, Czech Republic, France, Germany, Hong Kong, India, Italy, Netherlands, Poland, Spain, UAE, and UK. Hungary, Portugal, Romania, and Sweden are coming soon.<br/><br/>If you're hiring contractors in a market not listed, get in touch, we may be able to support it. We'll confirm within 24 hours."
+      },
+      {
+        "question": "How does the 48-hour payment SLA work?",
+        "answer": "When you instruct Jackson & Frank to pay a contractor invoice, we process the payment within 48 hours. \"Processing\" means the payment has been initiated from Jackson & Frank's local account, clearing time after that depends on the receiving bank and the payment method, which varies by market.<br/><br/>You're invoiced by Jackson & Frank in your billing currency. We handle the local currency conversion and any local payment rails."
+      },
+      {
+        "question": "Can I use Jackson & Frank's Contractor of Record service in a market where I also directly employ staff?",
+        "answer": "Yes. Many clients use Jackson & Frank for specific markets or specific contractor relationships while managing direct employment elsewhere. The two structures don't conflict. If you have an entity in one market and use Jackson & Frank for contractor management in a second market where you don't have an entity, that's a typical arrangement. For clients who engage contractors and also manage employees where they hold an entity, our <a href=\"/payroll\" class=\"faq-link\">payroll service</a> covers that side of the workforce."
+      },
+      {
+        "question": "What happens if the contractor relationship needs to end?",
+        "answer": "We handle offboarding through our local entity. This includes issuing formal notice in the format required by local law, final payment, and documentation. Independent contractor relationships typically have shorter notice obligations than employment contracts, but the requirements vary by market, our in-country team handles the local specifics."
+      },
+      {
+        "question": "Can you convert a contractor to a permanent employee?",
+        "answer": "Yes, and we recommend reviewing whether this is appropriate when a contractor relationship has been running for an extended period, particularly in markets with strict classification rules (Germany, France, UK). Jackson & Frank's <a href=\"/employer-of-record\" class=\"faq-link\">Employer of Record service</a> can handle the conversion, the contractor transitions to an employee engaged through Jackson & Frank's local entity without you needing a local entity yourself."
+      },
+      {
+        "question": "What payment cycles and currencies do you support?",
+        "answer": "We support monthly and bi-weekly payment cycles. Payments are made in the contractor's local currency, Jackson & Frank handles the exchange from your billing currency. If a contractor has specific payment timing requirements, discuss this during onboarding and we'll confirm whether it's accommodated in the relevant market."
+      }
+    ]
+  },
+  "finalCta": {
+    "eyebrow": "Get started",
+    "title": "Ready to hire contractors across Europe without the compliance risk?",
+    "description": "Tell us your markets and contractor volume. We'll come back with a quote within 24 hours, no commitment required, and no sales process to navigate first.",
+    "primaryButtonText": "Get your quote",
+    "primaryButtonHref": "/contact?reason=contractor_of_record",
+    "secondaryButtonText": "Speak to a specialist",
+    "secondaryButtonHref": "https://calendly.com/jacksonandfrank/discover-us"
+  }
+}

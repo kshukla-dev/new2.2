@@ -1,0 +1,129 @@
+{
+  "hero": {
+    "badge": {
+      "icon": "Shield",
+      "text": "Data Protection & Privacy"
+    },
+    "title": "Privacy policy",
+    "description": "Learn how Jackson & Frank protects your personal information and ensures data security"
+  },
+  "sections": [
+    {
+      "title": "About Jackson and Frank",
+      "subtitle": "Privacy policy",
+      "content": "This privacy statement covers the practices that Jackson & Frank employs when we receive information from our customers or potential customers and when information is processed in order that we can deliver services to our customers on either a national or international basis."
+    },
+    {
+      "title": "Purpose of policy",
+      "content": [
+        "To assure you that we recognize and fully respect the privacy and personal data of our customers.",
+        "To explain what type of data we receive and how we ensure its best protection."
+      ]
+    },
+    {
+      "title": "Type of data",
+      "content": "For the purpose of delivering the Services, we may ask you to provide us with certain Personally Identifiable Information (\"Personal Information\"). that can be used to contact or identify you. Personal Information may include, but is not limited to, your name, title, marital status, date of birth, gender, phone number, postal address, billing address, email address, bank account, payment card details, demographic information, or other material.",
+      "subContent": "We may collect, obtain and use the following Personal Information in relation to you:",
+      "list": [
+        "Any Personal Information you supply to us directly",
+        "Personal Information from third parties such as our service providers",
+        "Personal Information from the Data Controller such as your employer",
+        "Personal Information you provide when you use our website activ8.activpayroll.com, including but not limited to Personal Information you provide when you register to become a user of our services",
+        "Personal Information submitted pursuant of transactions made by you through our site",
+        "Information provided through your visits to our site, which includes without limitation weblogs, resources you access and other communication data.",
+        "The duration of the notice periods to be observed by the parties or the method of calculating these periods",
+        "The salary and the payment intervals.",
+        "The customary number of working hours per day or per week."
+      ]
+    },
+    {
+      "title": "Data protection",
+      "content": "Any processing will be fair, lawful, to the extended in such a manner as is necessary in order to meet Jackson & Frank obligations under the agreement with the customer, and we will not process such Personal Information for any other purpose.",
+      "subContent": "In particular, Jackson & Frank will:",
+      "list": [
+        "Always follow the rules of data protection laws and take steps to stop personal information from being used or accessed without permission. Also, put in place measures to prevent accidental loss or damage to personal information.",
+        "only act on the customer's instructions in relation to the processing of such Personal Information.",
+        "restrict access to the Personal Information to those employees, officers, subcontractors and other third parties whose access is necessary to perform the Services."
+      ]
+    },
+    {
+      "title": "Disclosure of data",
+      "list": [
+        "Jackson & Frank has a rigid policy of non-disclosure of information. Jackson & Frank shall only disclose information provided by you or obtained from your employer when there is a requirement to do so as part of delivery of the services and you are aware of the disclosure.",
+        "If Jackson & Frank or any of its representatives are requested pursuant to, or become compelled by law, regulatory request, legal process, subpoena or court order to disclose customer data, Jackson & Frank will provide the customer with advance notice where legally possible. We will disclose only that portion of the customer data which we are legally obliged to provide.",
+        "We shall not share or distribute customer information and data with third parties other than to deliver the services as per the contractual arrangements between us and our customers."
+      ]
+    },
+    {
+      "title": "Access of data",
+      "content": "Data access is contingent upon one's job role and functional responsibilities, wherein data partitioning and access controls are implemented to guarantee that information is exclusively retrievable and manipulable by individuals possessing a bona fide requirement to review and manage said data."
+    },
+    {
+      "title": "Service providers",
+      "list": [
+        "We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related tasks or to assist us in analysing how our Service is used.",
+        "These third parties have access to your Personal Information only to perform these tasks on our behalf and are both contractually and legally obligated not to disclose or use it for any other purpose.",
+        "Jackson & Frank shall not subcontract its processing operations performed on behalf of the customer without the prior consent of the data controllers and we shall remain liable for the data throughout the processing."
+      ]
+    },
+    {
+      "title": "How long we keep your personal information",
+      "content": "We will keep your personal information as long as you are a User of Jackson and Frank.",
+      "list": [
+        "To respond to a question or complaint, or to show whether we gave you fair treatment",
+        "To study customer data as part of our own research.",
+        "To comply with legal rules that apply to us about keeping records.",
+        "We may also keep your data for longer than 10 years if certain laws mean that we cannot delete it for legal, regulatory or technical reasons."
+      ]
+    },
+    {
+      "title": "Link to other sites",
+      "list": [
+        "Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site.",
+        "We strongly advise you to review the Privacy Policy of every site you visit. We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services."
+      ]
+    },
+    {
+      "title": "Security",
+      "content": "The security of your Personal Information is important to us. However, please be aware that no method of transmission over the internet, or method of electronic storage is fully secure and we are unable to guarantee the absolute security of the Personal Information we have collected from you. You are also a key stakeholder in making sure that your Personal Information is protected. If you become aware of any breach of security or privacy, please contact us immediately."
+    },
+    {
+      "title": "Your rights",
+      "content": "Under applicable privacy regulation, you may have some or all of the following rights in respect of your personal information:",
+      "list": [
+        "to obtain a copy of your personal information together with information about how and on what basis that personal information is processed.",
+        "to rectify inaccurate personal information.",
+        "to erase your personal information in limited circumstances where it is no longer necessary in relation to the purposes for which it was collected or processed.",
+        "(a) the accuracy of the personal information is contested",
+        "(b) the processing is unlawful but you object to the erasure of the personal information",
+        "(c) we no longer require the personal information for the purposes for which it was collected, but it is required for the establishment, exercise or defense of a legal claim.",
+        "to challenge processing which we have justified on the basis of our legitimate interest",
+        "to object to decisions which are based solely on automated processing or profiling.",
+        "to obtain a portable copy of your personal information, or to have a copy transferred to a third party controller."
+      ]
+    },
+    {
+      "title": "International transfer",
+      "list": [
+        "Information collected while you use the Site and/or Service, including your Personal Information, may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.",
+        "If you are located outside the United States and choose to provide information to us, please note that we transfer the information, including your Personal Information, to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such Personal Information represents your agreement to that transfer."
+      ]
+    },
+    {
+      "title": "Questions or concerns regarding the privacy policy",
+      "content": "If you have questions or concerns regarding privacy using our Service, please contact us at:",
+      "contactEmail": "info@jacksonandfrank.com"
+    }
+  ],
+  "contact": {
+    "company": "Jackson & Frank",
+    "address": {
+      "line1": "Nieuwe Stationsstraat 10",
+      "line2": "6811 KS Arnhem",
+      "country": "The Netherlands"
+    },
+    "phone": "+31 26 74 40 024",
+    "email": "info@jacksonandfrank.com"
+  }
+}
+

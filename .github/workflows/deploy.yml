@@ -1,0 +1,58 @@
+name: Deploy to VPS
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup SSH key
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H ${{ secrets.HOST }} >> ~/.ssh/known_hosts
+
+      - name: Test SSH connection
+        run: |
+          ssh -i ~/.ssh/id_rsa \
+              -p ${{ secrets.PORT }} \
+              ${{ secrets.USER }}@${{ secrets.HOST }} \
+              "echo 'Connected successfully'"
+
+      - name: Deploy
+        run: |
+          ssh -i ~/.ssh/id_rsa \
+              -p ${{ secrets.PORT }} \
+              ${{ secrets.USER }}@${{ secrets.HOST }} << 'EOF'
+          set -e
+
+          export NVM_DIR="$HOME/.nvm"
+          [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
+
+          cd /home/ubuntu/projects/jf_website_latest_2.0/jf_website_2.0
+
+          # `git pull` cannot be used here any more: main was force-pushed, so
+          # this checkout and origin/main have diverged and a merge would
+          # conflict across the whole tree. Fetch and hard-reset instead.
+          git fetch origin main
+          git reset --hard origin/main
+
+          nvm use 22.12
+
+          npm install
+          npm run build
+
+          # Restart by NAME, not by numeric id. `pm2 update` renumbers ids, so
+          # the old `pm2 restart 13` breaks the moment the daemon is updated.
+          # --update-env so a changed .env is picked up instead of PM2 reusing
+          # the environment it has been carrying since the process was created.
+          pm2 restart jf-website-2026 --update-env
+
+          EOF

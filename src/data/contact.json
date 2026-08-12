@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "title": "Contact Us - Global HR Solutions",
+    "description": "Contact Jackson & Frank for expert advice on global HR, EOR services, payroll management, and international hiring. Get started today.",
+    "keywords": [
+      "contact Jackson & Frank",
+      "global HR consultation",
+      "EOR services contact",
+      "international hiring consultation",
+      "global workforce consultation",
+      "HR services inquiry",
+      "EOR provider contact",
+      "international employment consultation",
+      "global payroll consultation",
+      "workforce solutions contact"
+    ],
+    "openGraph": {
+      "title": "Contact Us - Global HR Solutions",
+      "description": "Contact Jackson & Frank for expert advice on global HR, EOR services, payroll management, and international hiring. Get started today.",
+      "url": "/contact",
+      "siteName": "Jackson & Frank",
+      "images": [
+        {
+          "url": "/assets/logo-dark.svg",
+          "width": 1200,
+          "height": 630,
+          "alt": "Contact Jackson & Frank - Global HR Solutions"
+        }
+      ],
+      "locale": "en_US",
+      "type": "website"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Contact Us - Global HR Solutions",
+      "description": "Contact Jackson & Frank for expert advice on global HR, EOR services, payroll management, and international hiring. Get started today.",
+      "images": [
+        "/assets/logo-dark.svg"
+      ]
+    },
+    "alternates": {
+      "canonical": "/contact"
+    }
+  },
+  "hero": {
+    "badge": "Get in touch",
+    "title": "Ready to start your global journey?",
+    "description": "Fill out the form below and our experts will get back to you within 24 hours with a personalized solution."
+  },
+  "introSection": {
+    "title": "Why get in touch with Jackson & Frank",
+    "paragraphs": [
+      "Whether you're exploring Employer of Record (EOR) services, need global payroll and compliance support, or want to discuss contractor management and immigration, our team is here to help. We work with companies of all sizes to hire and pay talent in 17+ countries without setting up local entities.",
+      "When you contact us, you'll speak with experts who understand local labor laws, tax requirements, and employment practices in your target markets. We provide tailored proposals, clear timelines, and transparent pricing so you can make informed decisions about your global expansion.",
+      "Use the form below to tell us your needs, or call and email directly. We aim to respond within 24 hours with next steps and, where relevant, a custom quote. For existing clients, your account manager remains your main point of contact."
+    ]
+  },
+  "form": {
+    "title": "Send us a message",
+    "description": "Get a personalized consultation tailored to your global expansion needs.",
+    "contactReasons": [
+      {
+        "value": "general_inquiry",
+        "label": "General inquiry"
+      },
+      {
+        "value": "eor_services",
+        "label": "Employer of Record services"
+      },
+      {
+        "value": "payroll_services",
+        "label": "Payroll services"
+      },
+      {
+        "value": "contractor_management",
+        "label": "Contractor management"
+      },
+      {
+        "value": "immigration_services",
+        "label": "Immigration services"
+      },
+      {
+        "value": "compliance_questions",
+        "label": "Compliance questions"
+      },
+      {
+        "value": "partnership_opportunities",
+        "label": "Partnership opportunities"
+      },
+      {
+        "value": "support_request",
+        "label": "Support request"
+      },
+      {
+        "value": "careers",
+        "label": "Careers"
+      }
+    ],
+    "successMessage": {
+      "title": "Message Sent!",
+      "description": "Thank you for contacting us. We'll get back to you within 24 hours."
+    }
+  },
+  "contactInfo": {
+    "title": "Get in touch",
+    "items": [
+      {
+        "type": "email",
+        "title": "Email us",
+        "description": "Get answers to your questions within 24 hours",
+        "value": "info@jacksonandfrank.com",
+        "href": "mailto:info@jacksonandfrank.com"
+      },
+      {
+        "type": "phone",
+        "title": "Call us",
+        "description": "Speak with our experts directly",
+        "value": "+31 26 74 40 024",
+        "href": "tel:+31267440024"
+      },
+      {
+        "type": "hours",
+        "title": "Business hours",
+        "description": "Monday - Friday: 9:00 AM - 6:00 PM GMT\nSaturday - Sunday: Closed"
+      }
+    ]
+  },
+  "trustIndicators": [
+    {
+      "icon": "Shield",
+      "text": "GDPR compliant"
+    },
+    {
+      "icon": "Award",
+      "text": "ISO certified"
+    },
+    {
+      "icon": "CheckCircle",
+      "text": "SOC 2 Type II"
+    }
+  ],
+  "offices": {
+    "title": "Our offices",
+    "subtitle": "Our global network spans multiple continents, bringing you local expertise wherever you need it.",
+    "mainOffice": {
+      "city": "Arnhem",
+      "country": "Netherlands",
+      "address": "Jackson & Frank, Nieuwe Stationsstraat 10, 6811 KS Arnhem, The Netherlands",
+      "phone": "+31 26 74 40 024",
+      "email": "info@jacksonandfrank.com",
+      "timezone": "CET",
+      "image": "/countries/netherlands.webp",
+      "businessHours": "Mon-Fri, 9AM-6PM CET"
+    },
+    "otherOffices": [
+      {
+        "city": "Mumbai",
+        "country": "India",
+        "address": "Jackson and Frank, C-401, Wing-C VIPL IT Park road Gayatri Nagar, Pratap Nagar, Nagpur, Maharashtra 440022",
+        "phone": "+91 98702 02012",
+        "email": "info@jacksonandfrank.com",
+        "timezone": "IST",
+        "image": "/contact/IndiaImage.webp"
+      },
+      {
+        "city": "Shanghai",
+        "country": "China",
+        "address": "上海市静安区南京西路1486号2905室 / Room 2905, No.1486 West Nanjing Road, Jing'an District, Shanghai",
+        "phone": "+86 18017341774",
+        "email": "catrina@jacksonandfrank.com",
+        "timezone": "CST",
+        "image": "/contact/china-town.webp"
+      }
+    ]
+  },
+  "faqs": {
+    "title": "Frequently asked questions",
+    "subtitle": "",
+    "items": [
+      {
+        "question": "How quickly can you set up EOR services?",
+        "answer": "We can typically set up EOR services within 48-72 hours for most countries, depending on local requirements and documentation."
+      },
+      {
+        "question": "Which countries do you support?",
+        "answer": "We support 17+ countries across Europe, Asia-Pacific, and the Americas. Contact us for specific country availability."
+      },
+      {
+        "question": "What are your pricing models?",
+        "answer": "Our pricing is transparent and competitive, based on the services you need and the countries where you operate. We offer custom quotes for all clients."
+      },
+      {
+        "question": "Do you handle compliance and legal requirements?",
+        "answer": "Yes, we handle all local compliance, legal requirements, tax obligations, and regulatory matters in each country we operate in."
+      },
+      {
+        "question": "What is your typical response time for enquiries?",
+        "answer": "We aim to respond to all enquiries within 24 hours. For urgent matters, you can call our office directly during business hours for faster assistance."
+      },
+      {
+        "question": "Can I get a custom quote for my expansion?",
+        "answer": "Yes. Share your target countries, headcount, and timeline via the contact form or by email. Our team will provide a tailored proposal and cost breakdown, usually within 24–48 hours."
+      },
+      {
+        "question": "Do you offer demos or consultations?",
+        "answer": "Yes. We offer free consultations to discuss your global hiring needs. Book a call or submit the contact form and we'll arrange a time that works for you."
+      },
+      {
+        "question": "What if I need support in a language other than English?",
+        "answer": "We have local teams in 15+ countries and can support multiple languages. Indicate your preferred language in your message and we'll connect you with the right team."
+      }
+    ]
+  },
+  "socialProof": [
+    {
+      "icon": "Globe",
+      "value": "17+",
+      "label": "countries in our network"
+    },
+    {
+      "icon": "Users",
+      "value": "17+",
+      "label": "local offices in countries we operate"
+    },
+    {
+      "icon": "Clock",
+      "value": "€110K-200K",
+      "label": "per country in set-up costs"
+    },
+    {
+      "icon": "Users",
+      "value": "1,400+",
+      "label": "Employees Placed"
+    }
+  ],
+  "cta": {
+    "title": "Let's build your global team together",
+    "subtitle": "Join 700+ companies who trust Jackson & Frank to make global hiring simple, compliant, and hassle-free.",
+    "primaryButtonText": "Start our journey",
+    "secondaryButtonText": "Call now"
+  }
+}
