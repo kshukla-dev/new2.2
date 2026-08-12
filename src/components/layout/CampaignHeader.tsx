@@ -4,17 +4,23 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { Phone } from 'lucide-react'
 
+export interface CampaignHeaderProps {
+  isGermany?: boolean
+  onBookCall?: () => void
+  onHowItWorks?: () => void
+  onCompare?: () => void
+}
+
 /**
- * Stripped-down header for the /hire-non-eu-employees-netherlands ads landing
- * page (matches jf_website_2.0's campaign-page Header branch) - no site nav,
- * just logo + phone + a single CTA so paid traffic stays focused on converting.
- *
- * Uses plain scoped CSS (not Tailwind utility classes) - this project's
- * global.css has an unlayered `a { color: inherit }` rule that beats
- * Tailwind v4's @layer utilities regardless of specificity/order, so
- * Tailwind classes on links/buttons here render unreliably.
+ * Header for landing pages. Supports Germany landing page specific navbar links.
+ * Uses plain scoped CSS for layout compatibility.
  */
-export default function CampaignHeader() {
+export default function CampaignHeader({
+  isGermany = false,
+  onBookCall,
+  onHowItWorks,
+  onCompare,
+}: CampaignHeaderProps) {
   return (
     <header className="campaign-header">
       <style>{`
@@ -26,8 +32,25 @@ export default function CampaignHeader() {
         .campaign-header-phone{color:#143369;font-weight:700;text-decoration:none;white-space:nowrap;display:flex;align-items:center;justify-content:center;padding:8px;border-radius:9999px;transition:background-color 0.2s,color 0.2s}
         .campaign-header-phone-text{display:none}
         .campaign-header-phone svg{display:block}
-        .campaign-header-contact-btn{background:#143369;color:#ffffff;padding:6px 14px;border-radius:9999px;font-size:12px;font-weight:700;text-decoration:none;white-space:nowrap;box-shadow:0 1px 2px rgba(0,0,0,0.05);transition:background-color 0.2s}
+        .campaign-header-contact-btn{background:#143369;color:#ffffff;padding:6px 14px;border-radius:9999px;font-size:12px;font-weight:700;text-decoration:none;white-space:nowrap;box-shadow:0 1px 2px rgba(0,0,0,0.05);transition:background-color 0.2s;border:none;cursor:pointer}
         .campaign-header-contact-btn:hover{background:#0f2650}
+        
+        /* Germany Navbar Links */
+        .campaign-header-nav {
+          display: none;
+          gap: 24px;
+        }
+        .campaign-header-nav-link {
+          color: #0f1f3d;
+          font-weight: 600;
+          font-size: 14px;
+          text-decoration: none;
+          transition: color 0.2s;
+        }
+        .campaign-header-nav-link:hover {
+          color: #F7931E;
+        }
+        
         @media (min-width:640px){
           .campaign-header-logo img{width:195px}
           .campaign-header-right{gap:16px}
@@ -40,6 +63,12 @@ export default function CampaignHeader() {
         @media (min-width:768px){
           .campaign-header-logo img{width:240px}
           .campaign-header-right{gap:24px}
+        }
+        @media (min-width:1024px){
+          .campaign-header-nav {
+            display: flex;
+            align-items: center;
+          }
         }
       `}</style>
       <div className="campaign-header-inner">
@@ -54,14 +83,54 @@ export default function CampaignHeader() {
           />
         </Link>
 
+        {isGermany && (
+          <nav className="campaign-header-nav">
+            <a
+              href="#how-it-works"
+              onClick={(e) => {
+                e.preventDefault()
+                onHowItWorks?.()
+              }}
+              className="campaign-header-nav-link"
+            >
+              How it works
+            </a>
+            <a
+              href="#comparison"
+              onClick={(e) => {
+                e.preventDefault()
+                onCompare?.()
+              }}
+              className="campaign-header-nav-link"
+            >
+              Compare providers
+            </a>
+          </nav>
+        )}
+
         <div className="campaign-header-right">
-          <a href="tel:+31267440024" className="campaign-header-phone" aria-label="Call +31 26 74 40 024">
-            <Phone className="w-5 h-5" />
-            <span className="campaign-header-phone-text">+31 26 74 40 024</span>
-          </a>
-          <Link href="/contact" className="campaign-header-contact-btn">
-            Contact us
-          </Link>
+          {!isGermany && (
+            <a href="tel:+31267440024" className="campaign-header-phone" aria-label="Call +31 26 74 40 024">
+              <Phone className="w-5 h-5" />
+              <span className="campaign-header-phone-text">+31 26 74 40 024</span>
+            </a>
+          )}
+          {isGermany ? (
+            <button
+              onClick={(e) => {
+                e.preventDefault()
+                onBookCall?.()
+              }}
+              className="campaign-header-contact-btn"
+              style={{ minHeight: '44px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}
+            >
+              Book a call
+            </button>
+          ) : (
+            <Link href="/contact" className="campaign-header-contact-btn" style={{ minHeight: '44px', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+              Contact us
+            </Link>
+          )}
         </div>
       </div>
     </header>

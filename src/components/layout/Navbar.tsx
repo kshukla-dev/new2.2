@@ -59,7 +59,7 @@ export default function Navbar() {
   if (pathname === '/home') return null
 
   // Ads landing page uses its own stripped-down CampaignHeader instead.
-  if (pathname === '/hire-non-eu-employees-netherlands' || pathname === '/germany') return null
+  if (pathname === '/hire-non-eu-employees-netherlands' || pathname.startsWith('/germany/') || pathname.startsWith('/germany')) return null
 
 
 

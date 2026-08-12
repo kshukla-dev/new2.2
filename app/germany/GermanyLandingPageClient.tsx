@@ -87,7 +87,7 @@ const faqData = {
   gettingStarted: [
     {
       q: 'Do you operate through your own German entity?',
-      a: 'Yes. We employ your staff through Jackson & Frank\'s registered GmbH in Germany — not through a partner network or aggregated platform. You deal with one employer of record, and they are us.'
+      a: 'Yes. We employ your staff through Jackson & Frank\'s registered GmbH in Germany - not through a partner network or aggregated platform. You deal with one employer of record, and they are us.'
     },
     {
       q: 'What is the AÜG and does it limit how long I can use an EOR in Germany?',
@@ -313,11 +313,11 @@ export default function GermanyLandingPageClient({ initialIntent }: ClientProps)
       case 'comparison':
         return {
           eyebrow: 'PROVIDER COMPARISON · GERMANY',
-          h1: 'The best EOR for Germany — compare Jackson & Frank vs Deel, Remote, and the rest.',
+          h1: 'The best EOR for Germany - compare Jackson & Frank vs Deel, Remote, and the rest.',
           subhead: 'Dedicated account manager (not a ticket queue). Own German entity. Onboard in 2–3 days. See why 700+ companies chose us over the platforms.',
           primaryCTA: 'Compare providers →',
           secondaryCTA: 'Get a quote →',
-          primaryAction: () => scrollToSection('comparison-table'),
+          primaryAction: () => scrollToSection('comparison'),
           secondaryAction: scrollToForm
         }
       case 'solution':
@@ -341,7 +341,12 @@ export default function GermanyLandingPageClient({ initialIntent }: ClientProps)
 
   return (
     <div className="multiplier-theme bg-white text-slate-900 font-sans selection:bg-orange-500/10 selection:text-[#0f1f3d]">
-      <CampaignHeader />
+      <CampaignHeader
+        isGermany={true}
+        onBookCall={scrollToForm}
+        onHowItWorks={() => scrollToSection('how-it-works')}
+        onCompare={() => scrollToSection('comparison')}
+      />
       {/* HubSpot tracking code */}
       <Script
         id="hs-script-loader"
@@ -428,7 +433,7 @@ export default function GermanyLandingPageClient({ initialIntent }: ClientProps)
             </div>
 
             {/* Right Column - HubSpot Form */}
-            <div className="jaf-form-wrapper w-full">
+            <div ref={formRef} className="jaf-form-wrapper w-full">
               <div className="relative min-h-[520px]">
                 {/* Actual HubSpot Form Container (loaded behind the skeleton) */}
                 <div
@@ -1142,9 +1147,9 @@ export default function GermanyLandingPageClient({ initialIntent }: ClientProps)
         faqData={faqData}
       />
       <CampaignCTA
-        primaryBtnHref="#hero"
-        primaryBtnText="Get a cost estimate"
-        secondaryBtnText="Book a 20-minute call"
+        primaryBtnHref="https://calendly.com/jacksonandfrank/discover-us"
+        secondaryBtnText="Get a cost estimate"
+        primaryBtnText="Book a 20-minute call"
         title="Ready to hire in Germany?"
         description="Talk to our Germany team — no obligation, no generic pitch. One conversation with someone who knows German employment law, your industry, and what it takes to get a hire live inside a week."
         onBookCallClick={() => fireContactConversion()}

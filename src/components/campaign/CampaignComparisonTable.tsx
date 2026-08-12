@@ -26,7 +26,7 @@ export default function CampaignComparisonTable({
   rows
 }: CampaignComparisonTableProps) {
   return (
-    <section id="comparison-table" style={{ padding: '40px 0', background: '#f8fafc', borderTop: '1px solid #e8edf2', borderBottom: '1px solid #e8edf2' }}>
+    <section id="comparison" style={{ padding: '40px 0', background: '#f8fafc', borderTop: '1px solid #e8edf2', borderBottom: '1px solid #e8edf2' }}>
       <style>{`
         .cct-section-header { margin-bottom: 44px; }
         .cct-eyebrow {

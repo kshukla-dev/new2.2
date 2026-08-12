@@ -33,7 +33,7 @@ export default function Footer() {
   const subscribed = newsletterStatus === 'success'
 
   // Ads landing page uses its own stripped-down CampaignFooter instead.
-  if (pathname === '/hire-non-eu-employees-netherlands' || pathname === '/germany') return null
+  if (pathname === '/hire-non-eu-employees-netherlands' || pathname.startsWith('/germany/') || pathname.startsWith('/germany')) return null
 
   const handleSubscribe = async (e: React.FormEvent) => {
     e.preventDefault()
