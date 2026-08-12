@@ -244,19 +244,19 @@ export default function GermanyLandingPageClient({ initialIntent }: ClientProps)
     {
       feature: 'Setup cost',
       jf: <span className="font-bold text-[#0f1f3d]">Flat monthly fee</span>,
-      competitor: <span className="text-slate-500">-$599/mo per employee</span>,
+      competitor: <span className="text-slate-500">Monthly fee per employee + hidden costs</span>,
       gmbh: <span className="text-slate-500">€25,000 share capital + legal fees</span>
     },
     {
       feature: 'German entity owned',
       jf: <span className="font-bold text-[#0f1f3d]"><span className="text-emerald-600 font-bold mr-1">✓</span> Own GmbH</span>,
-      competitor: <span className="text-[#2e7d32]"><span className="text-[#2e7d32] font-bold mr-1">✓</span> Own entity</span>,
+      competitor: <span className="text-[#2e7d32]"><span className="text-[#2e7d32] font-bold mr-1">✓</span>Varies by provider. Often outsourced to 3rd parties</span>,
       gmbh: <span className="text-slate-500">Your entity</span>
     },
     {
       feature: 'AÜG-licensed',
       jf: <span className="font-bold text-[#0f1f3d]"><span className="text-emerald-600 font-bold mr-1">✓</span> Yes</span>,
-      competitor: <span className="text-[#2e7d32]"><span className="text-[#2e7d32] font-bold mr-1">✓</span> Yes</span>,
+      competitor: <span className="text-[#2e7d32]"><span className="text-[#2e7d32] font-bold mr-1">✓</span> Varies by provider.</span>,
       gmbh: <span className="text-slate-500">N/A</span>
     },
     {
@@ -274,13 +274,13 @@ export default function GermanyLandingPageClient({ initialIntent }: ClientProps)
     {
       feature: 'Pricing model',
       jf: <span className="font-bold text-[#0f1f3d]">Transparent, flat rate</span>,
-      competitor: <span className="text-slate-500">-$599/mo</span>,
+      competitor: <span className="text-slate-500">€599 - 799/mo per employee + platform fee + hidden costs (3rd party fees, onboarding, offboarding, etc.)</span>,
       gmbh: <span className="text-slate-500">Variable: payroll + legal + HR</span>
     },
     {
       feature: 'Dismissal protection handled',
       jf: <span className="font-bold text-[#0f1f3d]"><span className="text-emerald-600 font-bold mr-1">✓</span> We advise and manage</span>,
-      competitor: <span className="text-[#2e7d32]"><span className="text-[#2e7d32] font-bold mr-1">✓</span> Yes</span>,
+      competitor: <span className="text-[#2e7d32]"><span className="text-[#2e7d32] font-bold mr-1">✓</span> Varies by provider. Often outsourced to 3rd parties</span>,
       gmbh: <span className="text-slate-500">You manage — risk is yours</span>
     },
     {
@@ -292,7 +292,7 @@ export default function GermanyLandingPageClient({ initialIntent }: ClientProps)
     {
       feature: 'Path to own entity later',
       jf: <span className="font-bold text-[#0f1f3d]"><span className="text-emerald-600 font-bold mr-1">✓</span> Entity setup support</span>,
-      competitor: <span className="text-slate-500">Not offered</span>,
+      competitor: <span className="text-slate-500">Varies by provider. Often outsourced to 3rd parties</span>,
       gmbh: <span className="text-slate-500">N/A</span>
     }
   ]
@@ -710,7 +710,7 @@ export default function GermanyLandingPageClient({ initialIntent }: ClientProps)
                     },
                     {
                       title: "Direct support",
-                      desc: "YGet dedicated support throughout the employment lifecycle."
+                      desc: "You get dedicated support throughout the employment lifecycle."
                     },
                     {
                       title: "Faster expansion",
@@ -757,7 +757,7 @@ export default function GermanyLandingPageClient({ initialIntent }: ClientProps)
         eyebrow="COMPARE YOUR OPTIONS"
         title="Why companies choose J&amp;F over setting up their own entity."
         subtitle="See the difference between a dedicated Germany partner, a platform and doing everything yourself."
-        headers={['Feature', 'Jackson & Frank', 'Deel / Remote', 'Set up a GmbH yourself']}
+        headers={['Feature', 'Jackson & Frank', 'Deel / Remote / Other EOR Provider', 'Set up a GmbH yourself']}
         rows={comparisonRows}
       />
 

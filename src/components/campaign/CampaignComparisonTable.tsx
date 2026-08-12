@@ -21,7 +21,7 @@ export default function CampaignComparisonTable({
   eyebrow = 'COMPARE YOUR OPTIONS',
   title = 'Why companies choose J&F over setting up their own entity.',
   subtitle = 'See the difference between a dedicated country partner, a platform and doing everything yourself.',
-  disclaimer = '*Competitor pricing is based on public information as of 2026 and is subject to verification at launch.',
+  disclaimer = '*Competitor pricing is based on public information as of 2026.',
   headers,
   rows
 }: CampaignComparisonTableProps) {
